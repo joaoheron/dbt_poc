@@ -35,4 +35,9 @@ models:
   dbt_poc:
     # Config indicated by + and applies to all files under models/example/
     example:
-      +materialized: view
+      my_first_dbt_model:
+        +materialized: table
+      my_second_dbt_model:
+        +materialized: view
+      incremental_model:
+        +materialized: incremental
