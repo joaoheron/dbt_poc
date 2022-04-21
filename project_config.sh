@@ -2,7 +2,7 @@ source .env
 
 export DBT_PROJECT="dbt_poc"
 export DBT_TYPE="postgres"
-export DBT_HOST="0.0.0.0"
+export DBT_HOST="dbt-poc-cluster.cfvlqpuctxuv.us-east-1.rds.amazonaws.com"
 export DBT_PORT=5432
 export DBT_DATABASE="dbt_poc"
 export DBT_TARGET_SCHEMA="dbt_poc_dev"
