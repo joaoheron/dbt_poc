@@ -6,7 +6,7 @@ dbt_poc:
       host: "{{ env_var('DBT_HOST') }}"
       user: "{{ env_var('DBT_USER') }}"
       pass: "{{ env_var('DBT_PASSWORD') }}"
-      port: 5432
+      port: "{{ env_var('DBT_PORT') | int }}"
       dbname: "{{ env_var('DBT_DATABASE') }}"
       schema: "{{ env_var('DBT_TARGET_SCHEMA') }}"
       keepalives_idle: 10
@@ -16,7 +16,7 @@ dbt_poc:
       host: "{{ env_var('DBT_HOST') }}"
       user: "{{ env_var('DBT_USER') }}"
       pass: "{{ env_var('DBT_PASSWORD') }}"
-      port: 5432
+      port: "{{ env_var('DBT_PORT') | int }}"
       dbname: "{{ env_var('DBT_DATABASE') }}"
       schema: "{{ env_var('DBT_TARGET_SCHEMA') }}"
       threads: 4
