@@ -8,7 +8,7 @@ dbt_poc:
       pass: "{{ env_var('DBT_PASSWORD') }}"
       port: "{{ env_var('DBT_PORT') | int }}"
       dbname: "{{ env_var('DBT_DATABASE') }}"
-      schema: "{{ env_var('DBT_TARGET_SCHEMA') }}"
+      schema: "{{ env_var('DBT_SCHEMA') }}_{{ env_var('DBT_USER') }}"
       keepalives_idle: 10
       threads: 4
     prod:
@@ -18,6 +18,6 @@ dbt_poc:
       pass: "{{ env_var('DBT_PASSWORD') }}"
       port: "{{ env_var('DBT_PORT') | int }}"
       dbname: "{{ env_var('DBT_DATABASE') }}"
-      schema: "{{ env_var('DBT_TARGET_SCHEMA') }}"
+      schema: "{{ env_var('DBT_SCHEMA') }}_prod"
       threads: 4
       keepalives_idle: 10
