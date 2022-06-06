@@ -1,0 +1,20 @@
+version: 2
+
+models:
+
+  - name: stg_facebook__customers
+    columns:
+      - name: id
+        description: ""
+      - name: ssn
+        description: ""
+      - name: first_name
+        description: ""
+      - name: last_name
+        description: ""
+      - name: email
+        description: ""
+      - name: phone
+        description: ""
+      - name: job_title
+        description: ""
