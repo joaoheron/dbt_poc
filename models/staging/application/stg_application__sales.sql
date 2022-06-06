@@ -2,14 +2,14 @@
 -- Renaming sales columns following project pattern
 with sales_columns_names_pattern as (
     select
-        SalesId as id,
-        SalesCustomerId as customer_id,
-        SalesProductId as product_id,
-        SalesEmployeeId as employee_id,
-        SalesQuantity as quantity,
-        SalesTransactionTime as transaction_datetime,
-        SalesPaymentMethod as payment_method
-    from {{ ref('app_sales') }}
+        "SalesId" as id,
+        "SalesCustomerId" as customer_id,
+        "SalesProductId" as product_id,
+        "SalesEmployeeId" as employee_id,
+        "SalesQuantity" as quantity,
+        "SalesTransactionTime" as transaction_datetime,
+        "SalesPaymentMethod" as payment_method
+    from {{ ref('app_sales') }} sal
 ),
 
 -- Converting sales columns data types

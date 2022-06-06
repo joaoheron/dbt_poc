@@ -2,29 +2,29 @@
 -- Renaming employees columns following project pattern
 with employees_column_names_pattern as (
     select
-        EmployeeId as id,
-        EmployeeSsn as ssn,
-        EmployeeFirstName as first_name,
-        EmployeeLastName as last_name,
-        EmployeeEmail as email,
-        EmployeePhone as phone,
-        EmployeeJobTitle as job_title,
-        EmployeeCountry as country,
-        EmployeeState as state,
-        EmployeeCity as city,
-        EmployeeShippingAddress as shipping_address,
-        EmployeeBusinessAddress as business_address,
-        EmployeeJobSkill as job_skill,
-        EmployeePin as pin,
-        EmployeeUniversityName as university_name,
-        EmployeeIpAddress as ip_address,
-        EmployeeAdmissionDatetime as adminission_datetime,
-        EmployeeDeactivationDatetime as deactivation_datetime
+        "EmployeeId" as id,
+        "EmployeeSsn" as ssn,
+        "EmployeeFirstName" as first_name,
+        "EmployeeLastName" as last_name,
+        "EmployeeEmail" as email,
+        "EmployeePhone" as phone,
+        "EmployeeJobTitle" as job_title,
+        "EmployeeCountry" as country,
+        "EmployeeState" as state,
+        "EmployeeCity" as city,
+        "EmployeeShippingAddress" as shipping_address,
+        "EmployeeBusinessAddress" as business_address,
+        "EmployeeJobSkill" as job_skill,
+        "EmployeePin" as pin,
+        "EmployeeUniversityName" as university_name,
+        "EmployeeIpAddress" as ip_address,
+        "EmployeeAdmissionDatetime" as adminission_datetime,
+        "EmployeeDeactivationDatetime" as deactivation_datetime
     from {{ ref('app_employees') }}
 ),
 
 -- Converting employees columns data types
-products_columns_data_types as (
+employees_columns_data_types as (
     select
         id::int as id,
         ssn::varchar(11) as ssn,
@@ -44,7 +44,7 @@ products_columns_data_types as (
         ip_address::varchar(100) as ip_address,
         to_timestamp(adminission_datetime, 'YYYY-MM-DD HH24:MI:SS') as adminission_datetime,
         to_timestamp(deactivation_datetime, 'YYYY-MM-DD HH24:MI:SS') as deactivation_datetime
-    from products_columns_names_pattern
+    from employees_column_names_pattern
 )
 
-select * from products_columns_data_types
+select * from employees_columns_data_types

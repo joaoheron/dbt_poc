@@ -2,13 +2,13 @@
 -- Renaming products columns following project pattern
 with products_columns_names_pattern as (
     select
-        ProductId as id,
-        ProductBrand as brand,
-        ProductSize as size,
-        ProductCollection as collection,
-        ProductColor as color,
-        ProductPrice as price,
-        ProductCurrency as currency
+        "ProductId" as id,
+        "ProductBrand" as brand,
+        "ProductSize" as size,
+        "ProductCollection" as collection,
+        "ProductColor" as color,
+        "ProductPrice" as price,
+        "ProductCurrency" as currency
     from {{ ref('app_products') }}
 ),
 
