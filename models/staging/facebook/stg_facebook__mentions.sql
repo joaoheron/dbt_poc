@@ -25,8 +25,8 @@ fb_mentions_columns_data_types as (
         author_full_name::varchar(200) as author_full_name,
         content::varchar(1000) as content,
         media::varchar(200) as media,
-        string_to_array(replace(replace(tags, ']', ''), '[', ''))::array as tags,
-        string_to_array(replace(replace(mentions, ']', ''), '[', ''))::array as mentions,
+        string_to_array(replace(replace(tags, ']', ''), '[', ''), ',') as tags,
+        string_to_array(replace(replace(mentions, ']', ''), '[', ''), ',') as mentions,
         likes_number::int as likes_number,
         comments_number::int as comments_number,
         views_number::int as views_number

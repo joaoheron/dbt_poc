@@ -8,7 +8,7 @@ with fb_sales_columns_names_pattern as (
         "FB_PRODUCTS_GUIDS" as products_guids,
         "FB_PRODUCTS_QUANTITIES" as products_quantities,
         "FB_SALES_DATETIME" as datetime,
-        "FB_SALES_PAYMENT_METHOD" as payment_method,
+        "FB_SALES_PAYMENT_METHOD" as payment_method
     from {{ ref('fb_sales') }}
 ),
 
@@ -18,9 +18,9 @@ fb_sales_columns_data_types as (
         guid::varchar(36) as guid,
         customer_guid::varchar(36) as customer_guid,
         customer_profile_url::varchar(100) as customer_profile_url,
-        string_to_array(replace(replace(products_guids, ']', ''), '[', ''))::array as products_guids,
-        string_to_array(replace(replace(products_quantities, ']', ''), '[', ''))::array as products_quantities,
-        to_timestamp(datetime, 'YYYY-MM-DD HH24:MI:SS') as datetime,
+        string_to_array(replace(replace(products_guids, ']', ''), '[', ''), ',') as products_guids,
+        string_to_array(replace(replace(products_quantities, ']', ''), '[', ''), ',') as products_quantities,
+        to_timestamp(datetime::varchar, 'YYYY-MM-DD HH24:MI:SS') as datetime,
         lower(payment_method::varchar(100)) as payment_method
     from fb_sales_columns_names_pattern
 )

@@ -18,7 +18,7 @@ products_columns_data_types as (
         id::int as id,
         brand::varchar as brand,
         size::varchar(10) as size,
-        collection::varchar as collection,
+        collection::varchar(100) as collection,
         color::varchar(100) as color,
         round(price::numeric, 2) as price,
         currency::varchar(10) as currency
