@@ -1,7 +1,15 @@
 version: 2
 
-models:
+sources:
+  - name: application
+    schema: "{{ env_var('DBT_SCHEMA') }}_raw"
+    tables:
+      - name: app_customers
+      - name: app_employees
+      - name: app_products
+      - name: app_sales
 
+models:
   - name: stg_application__customers
     columns:
       - name: id
