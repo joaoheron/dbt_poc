@@ -20,7 +20,7 @@ with employees_column_names_pattern as (
         "EmployeeIpAddress" as ip_address,
         "EmployeeAdmissionDatetime" as adminission_datetime,
         "EmployeeDeactivationDatetime" as deactivation_datetime
-    from {{ ref('app_employees') }}
+    from {{ source('application', 'app_employees') }}
 ),
 
 -- Converting employees columns data types

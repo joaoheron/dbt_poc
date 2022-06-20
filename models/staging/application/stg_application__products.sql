@@ -9,7 +9,7 @@ with products_columns_names_pattern as (
         "ProductColor" as color,
         "ProductPrice" as price,
         "ProductCurrency" as currency
-    from {{ ref('app_products') }}
+    from {{ source('application', 'app_products') }}
 ),
 
 -- Converting products columns data types

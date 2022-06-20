@@ -13,7 +13,7 @@ with fb_mentions_columns_names_pattern as (
         "FB_LIKES_NUMBER" as likes_number,
         "FB_COMMENTS_NUMBER" as comments_number,
         "FB_VIEWS_NUMBER" as views_number
-    from {{ ref('fb_mentions') }}
+    from {{ source('facebook', 'fb_mentions') }}
 ),
 
 -- Converting mentions columns data types

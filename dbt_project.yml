@@ -28,8 +28,7 @@ clean-targets:         # directories to be removed by `dbt clean`
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
 
 seeds:
-  dbt_poc:
-    schema: "{{ env_var('DBT_SCHEMA') }}_raw" 
+  schema: "{{ env_var('DBT_SCHEMA') }}_raw"
 
 models:
   dbt_poc:

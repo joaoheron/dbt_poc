@@ -9,7 +9,7 @@ with fb_customers_columns_names_pattern as (
         "FB_PHONE" as phone,
         "FB_COUNTRY" as country,
         "FB_SHIPPING_ADDRESS" as shipping_address 
-    from {{ ref('fb_customers') }}
+    from {{ source('facebook', 'fb_customers') }}
 ),
 
 -- Converting customers columns data types

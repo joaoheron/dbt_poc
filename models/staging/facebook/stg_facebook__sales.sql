@@ -9,7 +9,7 @@ with fb_sales_columns_names_pattern as (
         "FB_PRODUCTS_QUANTITIES" as products_quantities,
         "FB_SALES_DATETIME" as datetime,
         "FB_SALES_PAYMENT_METHOD" as payment_method
-    from {{ ref('fb_sales') }}
+    from {{ source('facebook', 'fb_sales') }}
 ),
 
 -- Converting products columns data types

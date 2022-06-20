@@ -11,8 +11,7 @@ with fb_products_columns_names_pattern as (
         "FB_COLOR" as color,
         "FB_PRICE" as price,
         "FB_CURRENCY" as currency
-
-    from {{ ref('fb_products') }}
+    from {{ source('facebook', 'fb_products') }}
 ),
 
 -- Converting products columns data types

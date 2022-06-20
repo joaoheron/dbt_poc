@@ -7,7 +7,7 @@ with fb_followers_columns_names_pattern as (
         "FB_FULL_NAME" as full_name,
         "FB_FRIENDS_NUMBER" as friends_number,
         "FB_PROFILE_DESCRIPTION" as profile_description
-    from {{ ref('fb_followers') }}
+    from {{ source('facebook', 'fb_followers') }}
 ),
 
 -- Converting followers columns data types

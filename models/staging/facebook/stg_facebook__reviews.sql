@@ -7,7 +7,7 @@ with fb_reviews_columns_names_pattern as (
         "FB_REVIEWER_FULL_NAME" as reviewer_full_name,
         "FB_STARS_NUMBER" as stars_number,
         "FB_CONTENT" as content
-    from {{ ref('fb_reviews') }}
+    from {{ source('facebook', 'fb_reviews') }}
 ),
 
 -- Converting products columns data types

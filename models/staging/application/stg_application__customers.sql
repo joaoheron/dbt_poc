@@ -14,7 +14,8 @@ with customers_columns_names_pattern as (
         "CustomerCity" as city,
         "CustomerShippingAddress" as shipping_address,
         "CustomerBusinessAddress" as business_address
-    from {{ ref('app_customers') }}
+    from {{ source('application', 'app_customers') }}
+
 ),
 
 -- Converting customers columns data types

@@ -9,7 +9,7 @@ with sales_columns_names_pattern as (
         "SalesQuantity" as quantity,
         "SalesTransactionTime" as transaction_datetime,
         "SalesPaymentMethod" as payment_method
-    from {{ ref('app_sales') }} sal
+    from {{ source('application', 'app_sales') }}
 ),
 
 -- Converting sales columns data types
