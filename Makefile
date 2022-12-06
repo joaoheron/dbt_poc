@@ -13,20 +13,20 @@ build_dbt:
 	docker build -t "$(DBT_REGISTRY)/dbt-poc:$(DBT_VERSION)" '.'
 
 seed_dbt:
-	docker run -e DBT_HOST=$(DBT_HOST) \
+	docker run -e DBT_ACCOUNT=$(DBT_ACCOUNT) \
 		-e DBT_USER=$(DBT_USER) \
 		-e DBT_PASSWORD=$(DBT_PASSWORD) \
-		-e DBT_PORT=$(DBT_PORT) \
+		-e DBT_ACCOUNT=$(DBT_ACCOUNT) \
 		-e DBT_DATABASE=$(DBT_DATABASE) \
 		-e DBT_SCHEMA=$(DBT_SCHEMA) \
 		"$(DBT_REGISTRY)/dbt-poc:$(DBT_VERSION)" seed \
 			--target $(DBT_TARGET)
 
 run_dbt:
-	docker run -e DBT_HOST=$(DBT_HOST) \
+	docker run -e DBT_ACCOUNT=$(DBT_ACCOUNT) \
 		-e DBT_USER=$(DBT_USER) \
 		-e DBT_PASSWORD=$(DBT_PASSWORD) \
-		-e DBT_PORT=$(DBT_PORT) \
+		-e DBT_ACCOUNT=$(DBT_ACCOUNT) \
 		-e DBT_DATABASE=$(DBT_DATABASE) \
 		-e DBT_SCHEMA=$(DBT_SCHEMA) \
 		"$(DBT_REGISTRY)/dbt-poc:$(DBT_VERSION)" run \
