@@ -18,9 +18,9 @@ fb_sales_columns_data_types as (
         guid::varchar(36) as guid,
         customer_guid::varchar(36) as customer_guid,
         customer_profile_url::varchar(100) as customer_profile_url,
-        string_to_array(replace(replace(products_guids, ']', ''), '[', ''), ',') as products_guids,
-        string_to_array(replace(replace(products_quantities, ']', ''), '[', ''), ',') as products_quantities,
-        to_timestamp(datetime::varchar, 'YYYY-MM-DD HH24:MI:SS') as datetime,
+        array_construct(replace(replace(products_guids, ']', ''), '[', ''), ',') as products_guids,
+        array_construct(replace(replace(products_quantities, ']', ''), '[', ''), ',') as products_quantities,
+        to_timestamp(datetime, 'YYYY-MM-DD HH24:MI:SSZ') as datetime,
         lower(payment_method::varchar(100)) as payment_method
     from fb_sales_columns_names_pattern
 )

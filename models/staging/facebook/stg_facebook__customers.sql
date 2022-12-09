@@ -19,7 +19,7 @@ fb_customers_columns_data_types as (
         profile_url::varchar(100) as profile_url,
         full_name::varchar(200) as full_name,
         email::varchar(100) as email,
-        phone::varchar(20) as phone,
+        phone::varchar(30) as phone,
         country::varchar(100) as country,
         shipping_address::varchar(200) as shipping_address
     from fb_customers_columns_names_pattern
