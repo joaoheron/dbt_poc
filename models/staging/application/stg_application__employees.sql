@@ -2,24 +2,24 @@
 -- Renaming employees columns following project pattern
 with employees_column_names_pattern as (
     select
-        "EmployeeId" as id,
-        "EmployeeSsn" as ssn,
-        "EmployeeFirstName" as first_name,
-        "EmployeeLastName" as last_name,
-        "EmployeeEmail" as email,
-        "EmployeePhone" as phone,
-        "EmployeeJobTitle" as job_title,
-        "EmployeeCountry" as country,
-        "EmployeeState" as state,
-        "EmployeeCity" as city,
-        "EmployeeShippingAddress" as shipping_address,
-        "EmployeeBusinessAddress" as business_address,
-        "EmployeeJobSkill" as job_skill,
-        "EmployeePin" as pin,
-        "EmployeeUniversityName" as university_name,
-        "EmployeeIpAddress" as ip_address,
-        "EmployeeAdmissionDatetime" as adminission_datetime,
-        "EmployeeDeactivationDatetime" as deactivation_datetime
+        "EMPLOYEEID" as id,
+        "EMPLOYEESSN" as ssn,
+        "EMPLOYEEFIRSTNAME" as first_name,
+        "EMPLOYEELASTNAME" as last_name,
+        "EMPLOYEEEMAIL" as email,
+        "EMPLOYEEPHONE" as phone,
+        "EMPLOYEEJOBTITLE" as job_title,
+        "EMPLOYEECOUNTRY" as country,
+        "EMPLOYEESTATE" as state,
+        "EMPLOYEECITY" as city,
+        "EMPLOYEESHIPPINGADDRESS" as shipping_address,
+        "EMPLOYEEBUSINESSADDRESS" as business_address,
+        "EMPLOYEEJOBSKILL" as job_skill,
+        "EMPLOYEEPIN" as pin,
+        "EMPLOYEEUNIVERSITYNAME" as university_name,
+        "EMPLOYEEIPADDRESS" as ip_address,
+        "EMPLOYEEADMISSIONDATETIME" as adminission_datetime,
+        "EMPLOYEEDEACTIVATIONDATETIME" as deactivation_datetime
     from {{ source('application', 'app_employees') }}
 ),
 
@@ -42,8 +42,8 @@ employees_columns_data_types as (
         pin::varchar(20) as pin,
         university_name::varchar(100) as university_name,
         ip_address::varchar(100) as ip_address,
-        to_timestamp(adminission_datetime, 'YYYY-MM-DD HH24:MI:SS') as adminission_datetime,
-        to_timestamp(deactivation_datetime, 'YYYY-MM-DD HH24:MI:SS') as deactivation_datetime
+        to_timestamp(adminission_datetime, 'YYYY-MM-DD HH24:MI:SSZ') as adminission_datetime,
+        to_timestamp(deactivation_datetime, 'YYYY-MM-DD HH24:MI:SSZ') as deactivation_datetime
     from employees_column_names_pattern
 )
 
