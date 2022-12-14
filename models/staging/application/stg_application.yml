@@ -2,20 +2,46 @@ version: 2
 
 sources:
   - name: application
-    schema: "{{ env_var('DBT_SCHEMA') }}_raw"
+    database: raw
+    schema: application
     tables:
       - name: app_customers
+        loaded_at_field: loaded_at
+        freshness:
+          warn_after: {count: 12, period: hour}
+          error_after: {count: 24, period: hour}
+
       - name: app_employees
+        loaded_at_field: loaded_at
+        freshness:
+          warn_after: {count: 12, period: hour}
+          error_after: {count: 24, period: hour}
+
       - name: app_products
+        loaded_at_field: loaded_at
+        freshness:
+          warn_after: {count: 12, period: hour}
+          error_after: {count: 24, period: hour}
+
       - name: app_sales
+        loaded_at_field: loaded_at
+        freshness:
+          warn_after: {count: 12, period: hour}
+          error_after: {count: 24, period: hour}
+
 
 models:
   - name: stg_application__customers
     columns:
       - name: id
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: ssn
         description: ""
+        tests:
+          - unique
       - name: first_name
         description: ""
       - name: last_name
@@ -41,8 +67,14 @@ models:
     columns:
       - name: id
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: ssn
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: first_name
         description: ""
       - name: last_name
@@ -80,6 +112,9 @@ models:
     columns:
       - name: id
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: brand
         description: ""
       - name: size
@@ -98,15 +133,28 @@ models:
     columns:
       - name: id
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: customer_id
+        tests:
+          - not_null
         description: ""
       - name: product_id
         description: ""
+        tests:
+          - not_null
       - name: employee_id
         description: ""
       - name: quantity
         description: ""
+        tests:
+          - not_null
       - name: transaction_datetime
         description: ""
+        tests:
+          - not_null
       - name: payment_method
         description: ""
+        tests:
+          - not_null
