@@ -3,6 +3,6 @@ id,status
 2,confirmed
 3,shipped
 4,delivered
-5,sent-back
-6,delivered-back
+5,return-requested
+6,return-delivered
 7,refunded
