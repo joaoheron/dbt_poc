@@ -3,7 +3,7 @@ source .env
 export DBT_PROJECT="dbt_poc"
 export DBT_TYPE="snowflake"
 export DBT_ACCOUNT="ww91642.sa-east-1.aws"
-export DBT_ROLE="ACCOUNTADMIN"
+export DBT_ROLE="dbt_poc_role"
 export DBT_WAREHOUSE="dbt_poc_warehouse"
 export DBT_DATABASE="dbt_poc"
 export DBT_REGISTRY="public.ecr.aws/x7s5w8i1"

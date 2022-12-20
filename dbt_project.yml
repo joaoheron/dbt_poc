@@ -29,10 +29,16 @@ clean-targets:         # directories to be removed by `dbt clean`
 
 seeds:
   schema: raw
+  dbt_poc:
+    application:
+      schema: application
+    facebook:
+      schema: facebook
 
 models:
   dbt_poc:
     staging:
+      schema: staging
       application:
         +materialized: table
       facebook:

@@ -2,7 +2,7 @@ dbt_poc:
   target: dev
   outputs:
     dev:
-      type: "{{ env_var('DBT_TYPE') }}"
+      type: snowflake
       account: "{{ env_var('DBT_ACCOUNT') }}"
       role: "{{ env_var('DBT_ROLE') }}"
       warehouse: "{{ env_var('DBT_WAREHOUSE') }}"
