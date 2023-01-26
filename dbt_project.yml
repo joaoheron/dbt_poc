@@ -15,7 +15,7 @@ profile: 'dbt_poc'
 model-paths: ["models"]
 analysis-paths: ["analyses"]
 test-paths: ["tests"]
-seed-paths: ["seeds"]
+seed-paths: ["raw"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 
@@ -43,3 +43,7 @@ models:
         +materialized: table
       facebook:
         +materialized: table
+    intermediate:
+      +materialized: view
+    marts:
+      +materialized: table
