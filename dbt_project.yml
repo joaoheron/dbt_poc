@@ -15,7 +15,7 @@ profile: 'dbt_poc'
 model-paths: ["models"]
 analysis-paths: ["analyses"]
 test-paths: ["tests"]
-seed-paths: ["seeds"]
+seed-paths: ["seeds", "raw"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 
@@ -28,11 +28,13 @@ clean-targets:         # directories to be removed by `dbt clean`
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
 
 seeds:
-  schema: raw
+  schema: seed
   dbt_poc:
     application:
+      database: raw
       schema: application
     facebook:
+      database: raw
       schema: facebook
 
 models:
