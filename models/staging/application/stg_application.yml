@@ -1,0 +1,112 @@
+version: 2
+
+sources:
+  - name: application
+    schema: "{{ env_var('DBT_SCHEMA') }}_raw"
+    tables:
+      - name: app_customers
+      - name: app_employees
+      - name: app_products
+      - name: app_sales
+
+models:
+  - name: stg_application__customers
+    columns:
+      - name: id
+        description: ""
+      - name: ssn
+        description: ""
+      - name: first_name
+        description: ""
+      - name: last_name
+        description: ""
+      - name: email
+        description: ""
+      - name: phone
+        description: ""
+      - name: job_title
+        description: ""
+      - name: country
+        description: ""
+      - name: state
+        description: ""
+      - name: city
+        description: ""
+      - name: shipping_address
+        description: ""
+      - name: business_address
+        description: ""
+
+  - name: stg_application__employees
+    columns:
+      - name: id
+        description: ""
+      - name: ssn
+        description: ""
+      - name: first_name
+        description: ""
+      - name: last_name
+        description: ""
+      - name: email
+        description: ""
+      - name: phone
+        description: ""
+      - name: job_title
+        description: ""
+      - name: country
+        description: ""
+      - name: state
+        description: ""
+      - name: city
+        description: ""
+      - name: shipping_address
+        description: ""
+      - name: business_address
+        description: ""
+      - name: job_skill
+        description: ""
+      - name: pin
+        description: ""
+      - name: university_name
+        description: ""
+      - name: ip_address
+        description: ""
+      - name: adminission_datetime
+        description: ""
+      - name: deactivation_datetime
+        description: ""
+
+  - name: stg_application__products
+    columns:
+      - name: id
+        description: ""
+      - name: brand
+        description: ""
+      - name: size
+        description: ""
+      - name: collection
+        description: ""
+      - name: color
+        description: ""
+      - name: price
+        description: ""
+      - name: currency
+        description: ""
+
+
+  - name: stg_application__sales
+    columns:
+      - name: id
+        description: ""
+      - name: customer_id
+        description: ""
+      - name: product_id
+        description: ""
+      - name: employee_id
+        description: ""
+      - name: quantity
+        description: ""
+      - name: transaction_datetime
+        description: ""
+      - name: payment_method
+        description: ""

@@ -1,0 +1,116 @@
+version: 2
+
+sources:
+  - name: facebook
+    schema: "{{ env_var('DBT_SCHEMA') }}_raw"
+    tables:
+      - name: fb_customers
+      - name: fb_followers
+      - name: fb_mentions
+      - name: fb_products
+      - name: fb_reviews
+      - name: fb_sales
+
+models:
+  - name: stg_facebook__customers
+    columns:
+      - name: guid
+        description: ""
+      - name: profile_url
+        description: ""
+      - name: full_name
+        description: ""
+      - name: email
+        description: ""
+      - name: phone
+        description: ""
+      - name: country
+        description: ""
+      - name: shipping_address
+        description: ""
+
+  - name: stg_facebook__followers
+    columns:
+      - name: guid
+        description: ""
+      - name: profile_url
+        description: ""
+      - name: full_name
+        description: ""
+      - name: friends_number
+        description: ""
+      - name: profile_description
+
+  - name: stg_facebook__mentions
+    columns:
+      - name: guid
+        description: ""
+      - name: post_url
+        description: ""
+      - name: profile_url
+        description: ""
+      - name: author_full_name
+        description: ""
+      - name: content
+        description: ""
+      - name: media
+        description: ""
+      - name: tags
+        description: ""
+      - name: mentions
+        description: ""
+      - name: likes_number
+        description: ""
+      - name: comments_number
+        description: ""
+      - name: views_number
+        description: ""
+
+  - name: stg_facebook__products
+    columns:
+      - name: guid
+        description: ""
+      - name: application_id
+        description: ""
+      - name: product_url
+        description: ""
+      - name: brand
+        description: ""
+      - name: collection
+        description: ""
+      - name: color
+        description: ""
+      - name: price
+        description: ""
+      - name: currency
+        description: ""
+
+  - name: stg_facebook__reviews
+    columns:
+      - name: guid
+        description: ""
+      - name: reviewer_profile_url
+        description: ""
+      - name: reviewer_full_name
+        description: ""
+      - name: stars_number
+        description: ""
+      - name: content
+        description: ""
+
+  - name: stg_facebook__sales
+    columns:
+      - name: guid
+        description: ""
+      - name: customer_guid
+        description: ""
+      - name: customer_profile_url
+        description: ""
+      - name: products_guids
+        description: ""
+      - name: products_quantities
+        description: ""
+      - name: datetime
+        description: ""
+      - name: payment_method
+        description: ""
