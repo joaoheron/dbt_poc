@@ -49,3 +49,5 @@ models:
       +materialized: view
     marts:
       +materialized: table
+      dim_customers:
+        post-hook: "{{ insert_custom_customer() }}"
