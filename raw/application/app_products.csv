@@ -1,0 +1,1001 @@
+ProductId,ProductBrand,ProductSize,ProductCollection,ProductColor,ProductPrice,ProductCurrency
+1,Real Gold,,,Green,151.420369680482,USD
+2,Forever Lazy,,,Gray,555.391335999091,USD
+3,Marchesa,,,Lime,109.538083469527,USD
+4,Nudie Jeans,,,Dark Red,520.063639012442,USD
+5,Forever 21,,,coral,408.752195618712,USD
+6,Bujo,,,Olive,765.071971467045,USD
+7,Avirex,,,Dark Red,522.502179683201,USD
+8,Real Gold,,,Peach,315.959928824794,USD
+9,Acorn Stores,,,Carmine,432.037760006994,USD
+10,Cherokee Inc.,,,Gold,680.523565034407,USD
+11,JNCO,,,Purple,376.747553438543,USD
+12,Nudie Jeans,,,Orange,249.737984066488,USD
+13,Marchesa,,,Gray,327.913113185877,USD
+14,Real Gold,,,Rosegold,883.507539022731,USD
+15,Cherokee Inc.,,,Peach,610.906314941326,USD
+16,SABA,,,Aqua,131.838244233918,USD
+17,Real Gold,,,Pink,400.09531158983,USD
+18,Calvin Klein,,,Apricot,454.834444268311,USD
+19,C&A,,,Gray,831.163934338695,USD
+20,Mohito,,,Aqua,718.529612823417,USD
+21,Koalapop,,,Ruby,557.357055385079,USD
+22,Karen Kane,,,Green,629.403956640947,USD
+23,Koton,,,Yellow,444.50363608265,USD
+24,Converse,,,Ruby,194.734032694839,USD
+25,Six Deuce,,,White,442.147490175756,USD
+26,Merc Clothing,,,Azure,481.371889698273,USD
+27,Angels Jeanswear,,,Cadet blue,185.359854669725,USD
+28,Merc Clothing,,,Dark red,162.467027336358,USD
+29,Real Gold,,,Pink,455.503466814306,USD
+30,Mataano,,,Auburn,137.855469539941,USD
+31,Koalapop,,,Brown,813.263557624907,USD
+32,Andrew Marc,,,Fuchsia,772.891806084393,USD
+33,Karen Kane,,,Turquoise,382.790775194914,USD
+34,TNT,,,Magenta,681.257703532832,USD
+35,Nudie Jeans,,,Orange,857.201275354126,USD
+36,Calvin Klein,,,Blue,578.386286586484,USD
+37,Merc Clothing,,,Brown,232.847952797254,USD
+38,Mohito,,,Dark Red,246.993971146887,USD
+39,Koalapop,,,Lime,652.760982678407,USD
+40,Lilli Ann,,,Red,322.424841156208,USD
+41,H&M,,,Black,600.591911080816,USD
+42,Levis,,,Cerise,783.626875468603,USD
+43,Loyandford,,,Orange,209.248059335993,USD
+44,Mossimo,,,Camel,583.106128066143,USD
+45,Levis,,,Cadet blue,446.024258449,USD
+46,C&A,,,Fuchsia,514.016587918413,USD
+47,Columbia Sportswear,,,Green,353.98514962686,USD
+48,Marchesa,,,Fuchsia,33.0384435521292,USD
+49,Ex-Boyfriend,,,Cadet blue,515.930583039048,USD
+50,Hamilton Shirts,,,Cyan,21.419687303691,USD
+51,Guess,,,Lime,441.104367059485,USD
+52,Old Navy,,,Fuchsia,194.491259618207,USD
+53,Nice Collective,,,Lime,361.738084196704,USD
+54,Six Deuce,,,Maroon,632.641027549361,USD
+55,C&A,,,Magenta,620.978749393257,USD
+56,Converse,,,Rust,653.389927102681,USD
+57,Koton,,,Turquoise,349.279160688542,USD
+58,Mohito,,,Dark Red,419.342046372533,USD
+59,Forever 21,,,Silver,809.125355443291,USD
+60,Forever 21,,,Aquamarine,510.910293813069,USD
+61,Koton,,,Rust,39.3044122265812,USD
+62,Forever Lazy,,,Sienna,268.56611045175,USD
+63,JNCO,,,Gray,211.020219168416,USD
+64,Mohito,,,Brown,414.254480375342,USD
+65,Ex-Boyfriend,,,Peach,814.293027256533,USD
+66,Healthtex,,,Gray,146.26503527248,USD
+67,DKNY,,,Cyan,234.702352979329,USD
+68,Angels Jeanswear,,,Amethyst,136.266919434442,USD
+69,Bujo,,,Olive,705.095682125364,USD
+70,Lee,,,Green,730.935382616923,USD
+71,Ex-Boyfriend,,,Mauve,431.437245118882,USD
+72,Mataano,,,Emerald,22.4836928835202,USD
+73,TNT,,,Magenta,241.431504606251,USD
+74,EMEL Fashion,,,Red,278.291529972023,USD
+75,C&A,,,Auburn,165.547863774038,USD
+76,Andrew Marc,,,Amethyst,165.251526178225,USD
+77,Merc Clothing,,,Camel,860.578840607828,USD
+78,Calvin Klein,,,Lavender,383.468830595258,USD
+79,Real Gold,,,Yellow,389.819757805369,USD
+80,Ethika,,,Dark Red,717.716828329604,USD
+81,Andrew Marc,,,Auburn,113.768667026096,USD
+82,Max Studio,,,Dark Red,665.811113957009,USD
+83,Old Navy,,,Capri,347.095916334831,USD
+84,Lilli Ann,,,Red,831.304711260756,USD
+85,Healthtex,,,Rosewood,607.532609193149,USD
+86,Old Navy,,,Green,250.254913042665,USD
+87,Calvin Klein,,,Olive,170.577018883595,USD
+88,JNCO,,,Capri,777.02919941049,USD
+89,Ecko Unlimited,,,Emerald,482.264003119801,USD
+90,Old Navy,,,Salmon,858.080247266502,USD
+91,Koton,,,Pink,127.745188268961,USD
+92,Nice Collective,,,Maroon,230.011925562072,USD
+93,Andrew Marc,,,Ultramarine,194.225025305876,USD
+94,Andrew Marc,,,Red,248.610184590863,USD
+95,Mataano,,,Barbie Pink,512.526668346979,USD
+96,Forever 21,,,Azure,886.994140987529,USD
+97,TNT,,,Blue,155.792664053069,USD
+98,C&A,,,Gold,768.236471205841,USD
+99,Lilli Ann,,,Amethyst,315.324452049962,USD
+100,Nudie Jeans,,,Cadet blue,279.903134344813,USD
+101,Dollie & Me,One Size,Bellenden  Pass,Sienna,570.001167320894,USD
+102,Karen Kane,One Size,Fairholt   Walk,Magenta,748.40583931186,USD
+103,Cherokee Inc.,XXS,Camley   Alley,Pink,581.14419807106,USD
+104,Koalapop,M,Chalcot  Tunnel,Yellow,883.441269069431,USD
+105,Marchesa,L,Calshot   Drive,White,587.992558867914,USD
+106,Loyandford,XL,Baltic  Pass,Fuchsia,303.439377250601,USD
+107,Healthtex,XXL,Mariner   Street,Green,756.996044992714,USD
+108,Real Gold,One Size,Blean   Route,Gold,688.088532838793,USD
+109,Lee,One Size,Beechen  Boulevard,Gold,513.778775401557,USD
+110,Lilli Ann,XL,Chandos  Alley,Carmine,384.18972155299,USD
+111,Old Navy,L,Durnford  Vale,Maroon,640.802094012188,USD
+112,Old Navy,XS,Blanchard  Hill,Azure,412.630700519383,USD
+113,C&A,One Size,Geary   Lane,Purple,815.509920918401,USD
+114,Koalapop,XXXL,Ayres   Boulevard,Olive,601.358593577002,USD
+115,Lilli Ann,XXS,Chamberlain  Tunnel,Emerald,729.796094841476,USD
+116,Nudie Jeans,XXL,Chestnut Rise Boulevard,Silver,272.363618927958,USD
+117,Healthtex,XS,Cephas  Avenue,Ultramarine,151.506932542211,USD
+118,Koalapop,One Size,Dunstable   Boulevard,Cadet blue,618.028596050366,USD
+119,Acorn Stores,L,Camera  Hill,Silver,410.223786201213,USD
+120,Old Navy,XXL,Zealand Pass,Magenta,754.435769592396,USD
+121,Mohito,S,Sheffield Crossroad,Lime,149.77941905675,USD
+122,SABA,XL,Aspen Way,Cadet blue,769.810269782012,USD
+123,Cross Colours,L,Lincoln Lane,Pink,695.163704078502,USD
+124,JNCO,S,Cephas  Road,Barbie Pink,143.163260515171,USD
+125,Cherokee Inc.,XS,Cheney  Avenue,Maroon,83.0565881024052,USD
+126,Merc Clothing,XL,Norland  Lane,Apricot,240.785497492792,USD
+127,Max Studio,L,Eldon  Hill,Sky blue,384.587022197487,USD
+128,Marchesa,S,Chandos  Avenue,Peach,260.507576982508,USD
+129,Nice Collective,XXXL,Chancellor  Walk,Brown,562.735300073989,USD
+130,DKNY,XXS,Byland  Street,Mauve,683.064781881214,USD
+131,SABA,XS,Heritage Way,Cadet blue,353.510720232055,USD
+132,Old Navy,XXL,Beechen  Tunnel,Sepia,527.656038967979,USD
+133,Guess,L,Church Tunnel,Mauve,503.810372477556,USD
+134,Cross Colours,XL,Chestnut  Avenue,Magenta,65.1596648682326,USD
+135,Ex-Boyfriend,XXXL,Buttonwood Walk,Gold,480.575254589368,USD
+136,Cross Colours,XXL,Littlebury  Hill,Purple,897.49694424217,USD
+137,Ex-Boyfriend,S,English   Tunnel,Cyan,90.0015120569298,USD
+138,Izod,One Size,Empress  Drive,Rosewood,244.446207767341,USD
+139,JNCO,L,Cavell   Lane,Blue,329.571779422975,USD
+140,Guess,One Size,Thorndike   Alley,Silver,92.254560361516,USD
+141,Rip Curl,XXS,Marina  Lane,White,296.967592722968,USD
+142,Nudie Jeans,XL,Blenkarne  Way,Beige,160.783693561011,USD
+143,Dollie & Me,S,Waldram Park  Grove,Sienna,134.0235632004,USD
+144,Cross Colours,XXL,Emden   Hill,Gold,834.747043633497,USD
+145,Rip Curl,XXS,Meadow Drive,Fuchsia,677.887908981842,USD
+146,Countess Mara,M,Pine Rue,Yellow,441.533393346734,USD
+147,Max Studio,XXL,Vincent  Route,Carmine,713.594244810345,USD
+148,Six Deuce,XL,Canning  Walk,Yellow,224.308906945791,USD
+149,Rip Curl,XXS,Longmoore   Lane,Salmon,214.087028889739,USD
+150,Forever 21,XXS,Caldwell   Drive,Green,808.358012877353,USD
+151,Guess,XXXL,Fairbairn  Boulevard,Gold,451.552178373133,USD
+152,Andrew Marc,S,Westcott  Grove,Pink,155.423161165767,USD
+153,Old Navy,XL,Camberwell  Road,Cadet blue,529.962606757643,USD
+154,Calvin Klein,XXXL,Fawn Hill,Red,413.793196584249,USD
+155,Merc Clothing,XXXL,Camdenhurst   Walk,Purple,228.630810858757,USD
+156,Lee,XXL,Thurloe   Boulevard,Auburn,686.14644261062,USD
+157,Hamilton Shirts,One Size,Chester  Tunnel,Peach,604.025701301431,USD
+158,Koalapop,S,Beaconsfield  Lane,Maroon,368.893797847174,USD
+159,Tommy Hilfinger,XXS,Tiptree   Route,Silver,688.238327213921,USD
+160,Baby Gap,XXL,Bendall   Tunnel,Gray,717.607936651045,USD
+161,Merc Clothing,XXXL,Fawn Walk,Ruby,738.548203874881,USD
+162,TNT,M,East Street,Mauve,695.345062284207,USD
+163,Real Gold,XS,Blackall   Hill,Barbie Pink,668.829033353999,USD
+164,Avirex,XXXL,Eldon  Rue,Fuchsia,819.966571342897,USD
+165,Max Studio,XXL,Besson  Vale,Rust,388.627166434264,USD
+166,Hamilton Shirts,One Size,Aylward   Avenue,Amethyst,324.400843574633,USD
+167,Six Deuce,XS,Parkfields Tunnel,Fuchsia,806.398639275194,USD
+168,Loyandford,XXL,Beatty  Alley,Silver,705.031499985401,USD
+169,Brooks Brothers,XXL,Carltoun   Crossroad,Gray,532.289713354697,USD
+170,Forever 21,M,Howard Lane,Lavender,652.600625156951,USD
+171,Real Gold,XXXL,Lexington Tunnel,Salmon,397.978408892876,USD
+172,Koton,XXXL,Udall   Road,Brown,520.931177416565,USD
+173,Converse,S,Pine Walk,Magenta,544.601730645696,USD
+174,Mohito,XXS,Bendall   Rue,Olive,118.243323415878,USD
+175,Countess Mara,One Size,Bel   Way,Turquoise,722.076664952844,USD
+176,Tommy Hilfinger,XL,Bempton   Rue,Lavender,67.8326657839877,USD
+177,Guess,XL,Pine Lane,Brown,336.502938098755,USD
+178,Ecko Unlimited,L,Elf  Pass,Pink,899.924812244463,USD
+179,C&A,S,Ampton  Way,Maroon,667.025114462504,USD
+180,EMEL Fashion,XXS,Apothecary   Crossroad,Olive,772.969107166631,USD
+181,Avirex,M,Chamberlain  Tunnel,White,697.204189973294,USD
+182,Levis,XXL,Bermondsey    Pass,Auburn,671.209493531724,USD
+183,Rip Curl,M,Thoresby   Road,Mauve,154.284085580527,USD
+184,Countess Mara,M,Oxford Road,Maroon,730.575631613427,USD
+185,EMEL Fashion,XS,Coborn  Tunnel,Cadet blue,490.199080083859,USD
+186,Karen Kane,L,Blackheath   Hill,Orange,654.314699491879,USD
+187,EMEL Fashion,XXL,Durweston   Hill,Fuchsia,737.334744191666,USD
+188,JNCO,S,Bethwin  Drive,Rosegold,623.561676560013,USD
+189,Andrew Marc,One Size,Baltic  Street,Beige,573.832613800355,USD
+190,Levis,XXXL,Rosewood Tunnel,Rosewood,30.4868228584606,USD
+191,Max Studio,XS,St. Pauls  Hill,Emerald,873.607910753292,USD
+192,Angels Jeanswear,One Size,Fairfield  Boulevard,Fuchsia,232.71715442289,USD
+193,Andrew Marc,M,Badric  Walk,Barbie Pink,581.654886505187,USD
+194,JNCO,One Size,Belgrave  Tunnel,Aqua,444.151357261316,USD
+195,Izod,S,Lincoln Walk,Dark red,766.506860922574,USD
+196,Columbia Sportswear,M,Baynes  Tunnel,Rosegold,859.616147506119,USD
+197,Ecko Unlimited,XXL,Adderley   Drive,Salmon,122.367809812025,USD
+198,Ethika,M,Queen Caroline   Route,Cerise,752.47625670303,USD
+199,SABA,One Size,East Boulevard,coral,422.31325330252,USD
+200,Merc Clothing,One Size,Castile  Street,Salmon,205.084691529914,USD
+201,Ecko Unlimited,XXL,Bellenden   Vale,Dark Red,55.8601989468514,USD
+202,Levis,XS,Tilloch   Rue,Cerise,709.621214781027,USD
+203,Guess,XXL,Union  Grove,Brown,47.5755150733076,USD
+204,Rip Curl,XXS,Cliff  Street,coral,287.157991301589,USD
+205,Healthtex,S,Cephas  Drive,Gray,269.49238374225,USD
+206,Loyandford,L,Fieldstone Rue,Mauve,562.947015215865,USD
+207,Hamilton Shirts,XXS,Earl Rise Vale,Champagne,629.641321999566,USD
+208,Nudie Jeans,XXS,Ely  Route,Turquoise,468.75006436849,USD
+209,Six Deuce,XL,Fairholt   Street,Sepia,638.740911382842,USD
+210,Izod,XS,Linda   Grove,Cadet blue,134.765205371331,USD
+211,Ecko Unlimited,One Size,Hampden  Street,Green,573.519873433304,USD
+212,Izod,M,Ernest  Crossroad,Lime,475.337404157905,USD
+213,Real Gold,XXS,Collins  Pass,Olive,673.581077251169,USD
+214,Max Studio,M,Parkfield  Road,Gray,202.566865896851,USD
+215,Mataano,L,Cardinal Vale,Amethyst,791.323192133966,USD
+216,Ex-Boyfriend,XXS,Elystan  Walk,Purple,223.662647601772,USD
+217,Max Studio,XXL,Coleman  Vale,Carmine,375.816369754889,USD
+218,Mataano,XXS,Thrale   Pass,Salmon,182.621813615855,USD
+219,Ex-Boyfriend,M,Linden Avenue,Emerald,858.601925478378,USD
+220,Loyandford,XS,Liverpool  Road,Gold,33.3524162601132,USD
+221,Tommy Hilfinger,XS,Boleyn  Lane,Cadet blue,828.009418709455,USD
+222,Dollie & Me,One Size,Cliff  Pass,Dark red,680.988830344993,USD
+223,JNCO,L,Bocking   Street,Dark Red,637.002832296087,USD
+224,Six Deuce,L,Belmore  Grove,Sienna,74.9177785587719,USD
+225,Mohito,XXXL,Pine Hill,Salmon,428.460902929302,USD
+226,Healthtex,XXXL,Woodland Crossroad,Sienna,559.353542392088,USD
+227,Izod,M,Tiptree   Way,Rosewood,559.529282764094,USD
+228,Dollie & Me,One Size,Bennett  Drive,Maroon,328.234813446535,USD
+229,Old Navy,XXXL,Udall   Street,Barbie Pink,101.163824351362,USD
+230,Koalapop,XXL,Coley  Grove,Black,485.194686921651,USD
+231,DKNY,XL,East Grove,Aqua,591.662670576103,USD
+232,Avirex,XS,Howard Alley,Aquamarine,362.813512794368,USD
+233,Forever 21,One Size,Caroline  Alley,Ultramarine,219.143662282579,USD
+234,Bujo,S,Bedford  Route,Apricot,187.659012932884,USD
+235,Loyandford,XL,Birkbeck  Lane,Aqua,315.367637821426,USD
+236,Forever Lazy,XL,English   Street,Rosegold,523.709085047822,USD
+237,Koton,XL,Wakley   Route,Rosegold,328.915088069367,USD
+238,H&M,XL,Camdale  Vale,Maroon,65.0578169965128,USD
+239,Koton,XL,Jackson Hill,Aquamarine,24.3676377040789,USD
+240,Marchesa,XL,Garfield Route,Silver,412.902377426826,USD
+241,Healthtex,XXS,Spruce Grove,Gold,402.865937313715,USD
+242,Mossimo,XS,Kinglake  Walk,Ruby,674.719415091094,USD
+243,Tommy Hilfinger,XXL,Hampden  Walk,Black,293.368042489466,USD
+244,Marchesa,XS,Virginia Tunnel,Amethyst,321.290822040206,USD
+245,Nice Collective,XXS,Endsleigh  Rue,Gray,32.000885257279,USD
+246,Forever 21,XS,Balfour    Rue,Lime,189.402895984209,USD
+247,Rip Curl,XXS,Battis   Way,Red,590.890849501556,USD
+248,Six Deuce,S,Dyott   Walk,Pink,490.721983356053,USD
+249,Cherokee Inc.,One Size,Sheffield Alley,Aqua,526.827213626521,USD
+250,Old Navy,L,Garfield Lane,Sepia,652.479396672924,USD
+251,Levis,L,Queensberry  Rue,Ultramarine,869.712056132146,USD
+252,Mataano,L,Carolina  Boulevard,Dark Red,372.192195492202,USD
+253,Forever Lazy,XS,Wadham  Walk,Capri,266.93258487967,USD
+254,Nudie Jeans,XL,Parkgate  Avenue,Lime,527.696113881295,USD
+255,Bujo,XL,Castlereagh   Avenue,Camel,382.366894465358,USD
+256,Koalapop,S,Sherlock   Road,Amethyst,29.0765859873996,USD
+257,Nudie Jeans,XS,Bermondsey    Route,Turquoise,579.880933219758,USD
+258,Mataano,M,Linden Tunnel,Emerald,501.088193238535,USD
+259,Angels Jeanswear,XL,Carpenter Avenue,Salmon,35.4034868133876,USD
+260,SABA,L,Cheney  Pass,Fuchsia,746.147452511674,USD
+261,Andrew Marc,XXXL,Battis   Lane,Sienna,773.985248966848,USD
+262,Andrew Marc,XXL,Berriman  Grove,Yellow,737.578302169735,USD
+263,Nudie Jeans,XS,Ashley Avenue,Rust,265.018256027507,USD
+264,Cross Colours,L,Bagford   Street,Fuchsia,612.959238059581,USD
+265,TNT,L,Cadogan  Street,Dark red,665.446996616189,USD
+266,Forever 21,S,Virgil   Vale,Dark Red,111.359005698417,USD
+267,Merc Clothing,XXS,Ellerslie Grove,Rosewood,746.019948002207,USD
+268,Angels Jeanswear,XS,Badric  Vale,White,134.144118258112,USD
+269,Mossimo,M,Aspen Tunnel,Carmine,43.4045127955892,USD
+270,Merc Clothing,XS,Balfe   Vale,Aqua,136.769062483357,USD
+271,Acorn Stores,L,Emily  Vale,Turquoise,600.073394963799,USD
+272,Columbia Sportswear,XS,Collent   Walk,Barbie Pink,846.190681798254,USD
+273,Mataano,S,Rivervalley Tunnel,Lime,287.687427594893,USD
+274,Rip Curl,XL,Monroe Avenue,Peach,859.988041581827,USD
+275,Dollie & Me,XXL,Lincoln Vale,Dark Red,241.304463338495,USD
+276,Cherokee Inc.,L,Callcott   Route,Capri,83.867307309712,USD
+277,Six Deuce,L,South Boulevard,Aqua,208.287324746054,USD
+278,Guess,One Size,Apsley    Avenue,Ruby,92.9093051061217,USD
+279,Max Studio,S,Victoria  Alley,Rosegold,96.3956499430005,USD
+280,H&M,S,Erindale Vale,Dark Red,799.909396157339,USD
+281,Angels Jeanswear,One Size,Queen Vale,Orange,741.397032934207,USD
+282,TNT,S,Sheffield Drive,Auburn,636.399221747615,USD
+283,TNT,XS,Cobden  Crossroad,Turquoise,368.244684499584,USD
+284,Dollie & Me,M,Badric  Walk,Fuchsia,435.113127136437,USD
+285,Forever Lazy,XXL,Waite  Route,Blue,353.705282450763,USD
+286,Bujo,L,Virgil   Way,Sienna,471.692190920106,USD
+287,Tommy Hilfinger,XS,Ernest  Drive,Salmon,896.030522696469,USD
+288,Nice Collective,XXS,Arthur  Avenue,coral,605.868543116561,USD
+289,JNCO,XL,Fairview Tunnel,Lavender,270.020182549744,USD
+290,TNT,L,Ampton  Grove,Blue,630.522741619988,USD
+291,Old Navy,M,Cam  Lane,Purple,506.510456663575,USD
+292,Merc Clothing,One Size,Fairbairn  Way,Capri,93.6124185240559,USD
+293,Six Deuce,L,Wadham  Crossroad,Rosegold,756.241002268051,USD
+294,Mohito,L,Gate   Lane,Orange,611.393558151984,USD
+295,Forever 21,XS,Bellenden  Alley,Maroon,467.478580898144,USD
+296,C&A,XXS,Canning  Way,Ultramarine,335.027409589643,USD
+297,Ethika,XL,Abourne   Crossroad,Rosewood,379.821203926742,USD
+298,Izod,XXXL,Clifton  Way,Barbie Pink,268.109167516529,USD
+299,SABA,L,Chambers  Rue,Purple,123.280139922076,USD
+300,H&M,M,Fair Vale,Amethyst,138.031141135172,USD
+301,Cross Colours,M,Bazely   Way,Capri,208.888453107056,USD
+302,Angels Jeanswear,XXXL,Howard Road,Sienna,524.391396664512,USD
+303,Mossimo,L,Chester  Grove,Orange,345.39930767097,USD
+304,Izod,XL,Empress  Street,Red,677.800153725469,USD
+305,Max Studio,XXS,Paris   Way,Sienna,715.216649625798,USD
+306,Ethika,S,Linda Lane Route,Peach,215.908767736256,USD
+307,Koton,L,Under  Way,White,802.832712231839,USD
+308,Real Gold,XXS,Longleigh   Boulevard,Olive,576.763251419316,USD
+309,H&M,M,Fairview Tunnel,Capri,98.0778631119094,USD
+310,Forever Lazy,S,Baynes  Drive,Mauve,174.348991795387,USD
+311,Healthtex,S,Cavell   Vale,Azure,452.873453412393,USD
+312,Hamilton Shirts,M,Geary   Rue,Barbie Pink,871.032511116733,USD
+313,Andrew Marc,L,Burton  Avenue,Azure,419.783978294262,USD
+314,Bujo,XL,Black Friars   Way,Pink,751.609989110911,USD
+315,TNT,M,Fawn Pass,Rosegold,446.639067779374,USD
+316,H&M,XL,Biggerstaff   Way,Azure,803.979143849346,USD
+317,Ecko Unlimited,XXXL,Fair Way,Pink,60.5657098424135,USD
+318,Loyandford,One Size,South Way,Sepia,517.543034928885,USD
+319,Mossimo,L,Viscount   Road,Gold,252.036325192808,USD
+320,Izod,L,Cliff  Vale,coral,366.367655069985,USD
+321,Max Studio,XXS,Gathorne   Road,Amethyst,728.114871399777,USD
+322,Ex-Boyfriend,XL,Chambers  Road,Mauve,59.239259615433,USD
+323,Acorn Stores,One Size,Carlisle  Drive,Gray,105.828505524601,USD
+324,C&A,XL,Elba  Avenue,Magenta,849.839191689328,USD
+325,Six Deuce,XL,Norland  Way,Gold,195.043949670891,USD
+326,Andrew Marc,XL,Caldwell   Vale,Olive,397.90886553863,USD
+327,SABA,XL,Rosewood Crossroad,Rosewood,721.985355181394,USD
+328,Lee,XXL,Chamberlain  Hill,Black,494.567282885358,USD
+329,Ethika,M,Castile  Lane,Rust,263.111327607483,USD
+330,Converse,XS,Adelaide  Vale,Barbie Pink,192.057896082098,USD
+331,EMEL Fashion,XS,Woodland Vale,Champagne,829.39965091363,USD
+332,Bujo,XL,Caldwell   Route,Azure,771.909742938559,USD
+333,Mossimo,M,Clarges   Route,Gold,439.574086331345,USD
+334,Nudie Jeans,XXS,Chestnut Rise Lane,Azure,722.321568481555,USD
+335,Andrew Marc,XL,Calverley  Route,Lime,836.276393731035,USD
+336,Real Gold,M,Coalecroft  Way,Lime,168.369223694736,USD
+337,Baby Gap,L,Bellenden   Pass,Emerald,198.173599948037,USD
+338,Koton,M,Cheney  Street,Rosegold,446.255364873347,USD
+339,Ethika,XL,Boldero   Avenue,Pink,89.031487198808,USD
+340,Nice Collective,XXL,Cedarne  Hill,Camel,577.535094808352,USD
+341,Converse,XL,Champion  Road,Maroon,201.583082318824,USD
+342,DKNY,XXXL,Waite  Pass,Sky blue,151.801906627292,USD
+343,SABA,L,Westbourne Lane,Aquamarine,39.7959199097594,USD
+344,Karen Kane,One Size,Chicksand  Avenue,Aqua,317.725213003464,USD
+345,Bujo,XS,Byland  Avenue,Amethyst,582.21497749246,USD
+346,Healthtex,XXS,Coal Wharf  Route,Sienna,611.305069019476,USD
+347,Columbia Sportswear,XXS,Bethwin  Avenue,Camel,222.626399133427,USD
+348,Marchesa,XXL,Shepherds  Avenue,Lime,670.281832119362,USD
+349,Forever 21,XL,Magnolia Street,Rust,775.073581476046,USD
+350,Rip Curl,XXS,Canon Road,Cadet blue,536.681347760936,USD
+351,Marchesa,XXS,St. Pauls  Vale,Lavender,452.768515136698,USD
+352,Bujo,M,Lake Vale,Ultramarine,107.144721294136,USD
+353,H&M,XS,Canon Drive,Purple,841.107146299275,USD
+354,Ethika,XL,Biggerstaff   Grove,Dark red,224.719617667724,USD
+355,Bujo,XS,Vine  Grove,Gold,851.988739804141,USD
+356,Mossimo,One Size,Emily  Tunnel,Red,472.441857255982,USD
+357,Nudie Jeans,XL,Ellerslie Pass,Auburn,837.537051812311,USD
+358,Mataano,M,Clarges   Way,Gold,525.453716662239,USD
+359,Koalapop,M,Ely  Hill,Red,63.988828821815,USD
+360,Six Deuce,XS,Arline    Grove,Azure,158.826553617304,USD
+361,SABA,XXXL,Sundown Rue,Green,605.151996885744,USD
+362,Andrew Marc,One Size,Liverpool  Road,Maroon,181.560573751615,USD
+363,SABA,S,Cecilia  Drive,Cerise,491.369046973018,USD
+364,Marchesa,XL,Aspen Drive,Capri,419.491549854643,USD
+365,Izod,M,Vincent  Way,Olive,645.164255558836,USD
+366,Dollie & Me,S,Boleyn  Street,Gray,286.386576240843,USD
+367,DKNY,XXS,Beechen  Drive,Rust,397.442707736032,USD
+368,Brooks Brothers,L,Lake Walk,Magenta,423.409999660188,USD
+369,Guess,L,Shepherds  Drive,Rosewood,601.927304256455,USD
+370,Mossimo,S,Dunstans  Hill,Capri,369.789407795444,USD
+371,Brooks Brothers,XXL,Commercial  Grove,Orange,884.740692166738,USD
+372,Old Navy,M,Dunsley  Way,Cyan,63.0417023131492,USD
+373,Levis,XXL,Chancellor  Vale,Red,683.388157837055,USD
+374,Angels Jeanswear,M,Burton  Rue,Gold,424.334498678271,USD
+375,Avirex,XXS,Boadicea   Route,Cyan,595.989032739549,USD
+376,Bujo,XXXL,Bletchley   Route,Capri,609.65445328233,USD
+377,Karen Kane,XL,Cheltenham  Street,Lime,799.405812229,USD
+378,EMEL Fashion,XL,Charnwood   Street,Gold,373.620805135998,USD
+379,EMEL Fashion,XS,Sheraton   Way,Apricot,378.714468585907,USD
+380,Calvin Klein,XL,Parkfields Drive,Salmon,67.3061193599534,USD
+381,Izod,XS,Becklow  Walk,Aqua,665.693527172424,USD
+382,Hamilton Shirts,L,Abbots   Road,Amethyst,837.188089362214,USD
+383,Angels Jeanswear,XXS,Blean   Route,Red,344.512568268945,USD
+384,Lilli Ann,XL,Apollo  Drive,Sienna,847.481479081331,USD
+385,Andrew Marc,One Size,Addison  Street,Ruby,108.437451706253,USD
+386,Guess,XL,Thorndike   Hill,Champagne,836.877048629991,USD
+387,EMEL Fashion,M,Parkgate  Drive,Capri,483.810129349278,USD
+388,EMEL Fashion,XXS,Victorian  Vale,Dark Red,718.839745706585,USD
+389,Ecko Unlimited,L,Caslon   Walk,Mauve,207.632676918601,USD
+390,Six Deuce,M,Bempton   Pass,Ruby,680.264946720933,USD
+391,Koalapop,XXXL,Woodland Hill,Aquamarine,579.680218408913,USD
+392,Nudie Jeans,M,Maple Walk,Green,611.458505164361,USD
+393,Guess,XL,Clarges   Vale,Maroon,546.170563362399,USD
+394,H&M,XL,Clissold  Crossroad,Rosegold,235.777411802815,USD
+395,Ecko Unlimited,XXXL,Westcott  Rue,Olive,500.110482345168,USD
+396,Nudie Jeans,XXXL,Comet House  Tunnel,Azure,161.636147563889,USD
+397,C&A,XXL,Cedarne  Route,White,174.632867562195,USD
+398,C&A,XXXL,Carnegie   Avenue,Azure,103.780674059089,USD
+399,Acorn Stores,XXS,Linda   Pass,Salmon,814.347960978224,USD
+400,Mataano,XXL,Carlisle  Way,Pink,326.820292195003,USD
+401,JNCO,XS,Fairholt   Vale,Emerald,490.899542543306,USD
+402,Merc Clothing,XXXL,Victoria Rise Vale,Peach,148.208782363561,USD
+403,Tommy Hilfinger,XL,St. Jamess  Way,Aquamarine,310.165503355533,USD
+404,Hamilton Shirts,XXL,Lexington Walk,Red,274.240875536004,USD
+405,Andrew Marc,L,Calverley  Grove,Ruby,735.891337303641,USD
+406,Calvin Klein,XXXL,Adelaide  Pass,White,795.317873395443,USD
+407,Levis,One Size,Bellenden  Boulevard,Auburn,143.466780757996,USD
+408,Countess Mara,XXS,Cloth  Rue,Brown,596.138767643212,USD
+409,Hamilton Shirts,S,Anns  Street,Red,599.750899385792,USD
+410,Merc Clothing,XXXL,Ashley Tunnel,Blue,300.770271490468,USD
+411,Columbia Sportswear,XXXL,Eldon  Lane,Aquamarine,766.264290851911,USD
+412,Healthtex,L,Bocking   Avenue,Azure,701.843318935658,USD
+413,Ex-Boyfriend,XXXL,Arline    Walk,Azure,682.552177301181,USD
+414,Max Studio,L,Enford   Boulevard,Orange,519.588511024657,USD
+415,Old Navy,XXL,Pine Grove,Ruby,633.237679097228,USD
+416,Real Gold,XXS,Bethwin  Hill,Dark red,789.023933626504,USD
+417,Koalapop,L,Blue Anchor  Alley,Purple,818.902216049112,USD
+418,Andrew Marc,XXS,Udall   Vale,Amethyst,212.619270866341,USD
+419,Avirex,S,Clifton  Street,Black,615.155833516589,USD
+420,Countess Mara,S,Clarges   Boulevard,Peach,553.617190408123,USD
+421,Healthtex,L,Central  Boulevard,Rust,485.869382496644,USD
+422,Brooks Brothers,XXL,Bede  Boulevard,Gold,624.431243001931,USD
+423,Six Deuce,XL,Virginia Tunnel,Capri,564.493106163583,USD
+424,C&A,One Size,Virgil   Avenue,Carmine,784.235244885909,USD
+425,Cherokee Inc.,XL,Berry  Walk,Maroon,271.394064741639,USD
+426,Bujo,One Size,Bacton   Rue,Dark Red,680.689182078568,USD
+427,Dollie & Me,S,Blackall   Way,Fuchsia,657.395045153296,USD
+428,C&A,XXL,Clarges   Way,Fuchsia,130.877964427419,USD
+429,Avirex,L,Bacton   Rue,Champagne,578.481970785657,USD
+430,Calvin Klein,XS,Bellenden   Route,Green,53.6941416199431,USD
+431,Ethika,S,Walnut Walk,Rust,727.197768269446,USD
+432,Lee,XS,Fairholt   Street,Azure,759.827994364015,USD
+433,Merc Clothing,XXXL,Birkbeck  Boulevard,Turquoise,474.3090250035,USD
+434,Max Studio,L,Linda Lane Road,Ultramarine,203.275006344451,USD
+435,Marchesa,S,Belmore  Hill,Dark Red,637.275197930543,USD
+436,Levis,XS,Cecilia  Vale,Blue,618.890318031619,USD
+437,Ethika,L,Fairfield  Avenue,Mauve,595.438679246683,USD
+438,Avirex,M,Caedmon  Tunnel,Apricot,359.130411504144,USD
+439,Koalapop,XL,Balfour    Pass,Sky blue,832.922860526691,USD
+440,Izod,XL,Carolina  Grove,Pink,506.38928392386,USD
+441,Rip Curl,S,Addison  Crossroad,Ruby,389.852583223201,USD
+442,Izod,XS,Cleveland  Boulevard,White,756.156966262351,USD
+443,Andrew Marc,One Size,Gate   Vale,Maroon,148.952370767706,USD
+444,Columbia Sportswear,XXS,Apothecary   Pass,Auburn,871.332474523626,USD
+445,Real Gold,XXL,Ellerslie Rue,Ultramarine,64.537849786723,USD
+446,Columbia Sportswear,XXL,Argyle  Rue,Beige,265.338580674431,USD
+447,Andrew Marc,M,Union  Road,Aqua,694.053265947655,USD
+448,Koalapop,M,Chelsea Manor  Walk,Green,405.251538291937,USD
+449,Mohito,XXL,Chestnut  Alley,Aquamarine,478.793092710116,USD
+450,Baby Gap,XS,Victoria  Grove,Mauve,565.09844629263,USD
+451,Loyandford,L,South Boulevard,Rust,560.902165469449,USD
+452,Mossimo,L,Bingham   Rue,Rosewood,266.847087491014,USD
+453,Cherokee Inc.,XXXL,Edwin   Rue,Lime,272.570416692691,USD
+454,Tommy Hilfinger,M,Bacon  Avenue,Auburn,500.327470532086,USD
+455,Merc Clothing,XXXL,Ampton  Boulevard,Azure,860.036046781841,USD
+456,SABA,XXL,St. Pauls  Hill,Ruby,328.529498541755,USD
+457,Ex-Boyfriend,S,Coalecroft  Tunnel,Red,852.101937453557,USD
+458,Baby Gap,XXL,Balfour    Vale,Blue,485.347626741453,USD
+459,Hamilton Shirts,XXL,Woodland Alley,Peach,526.002715339667,USD
+460,Countess Mara,XXS,Meadow Road,Blue,733.241310043154,USD
+461,Nice Collective,S,Chamberlain  Walk,Camel,56.1116238812178,USD
+462,Lee,One Size,King William  Avenue,Sky blue,219.101485526018,USD
+463,Columbia Sportswear,XXL,St. Jamess  Walk,Emerald,626.64864009208,USD
+464,Columbia Sportswear,XL,Union  Pass,Olive,484.713866787611,USD
+465,Mohito,XXS,Addison  Lane,Pink,777.709591673799,USD
+466,Old Navy,XL,Camdenhurst   Route,coral,228.811279637432,USD
+467,Hamilton Shirts,XL,Carnegie   Grove,Lavender,813.233455189394,USD
+468,Lilli Ann,M,Chartham  Lane,Pink,541.018025219696,USD
+469,Karen Kane,XXXL,Cedarne  Vale,Cadet blue,370.486030394685,USD
+470,Countess Mara,XXS,Dunton  Grove,Cerise,365.43870779498,USD
+471,Calvin Klein,XXXL,Fieldstone Lane,Aquamarine,757.24892255933,USD
+472,Bujo,XXL,Babmaes    Grove,Magenta,443.082809740963,USD
+473,Merc Clothing,L,Jackson Road,Sienna,628.751952947714,USD
+474,Ex-Boyfriend,S,Canon Drive,Ruby,306.501964117881,USD
+475,Mataano,L,Rosewood Drive,Cadet blue,719.02023691989,USD
+476,Forever 21,XXL,Timber   Rue,Auburn,697.635913699477,USD
+477,Ex-Boyfriend,XXXL,Thrale   Lane,Gray,375.363727930418,USD
+478,Acorn Stores,XL,Chester  Alley,Rosegold,624.329309392655,USD
+479,Levis,One Size,Bliss  Way,Cadet blue,677.563001805028,USD
+480,Lee,M,Thorndike   Alley,Dark Red,76.2730512846275,USD
+481,Guess,XXS,Collins  Avenue,Camel,121.995551329816,USD
+482,TNT,XS,Antrobus   Lane,Camel,142.371684920463,USD
+483,Angels Jeanswear,XS,Blackall   Walk,Ultramarine,628.107069365046,USD
+484,Healthtex,L,Bishop   Tunnel,Cyan,85.02362729076,USD
+485,Old Navy,M,Tiptree   Street,Lavender,100.975103060484,USD
+486,Dollie & Me,XXS,Hammersmith  Walk,Amethyst,314.777394889997,USD
+487,Baby Gap,XXL,Sundown Way,Lime,189.426568407079,USD
+488,C&A,XS,Beaumont  Hill,Cerise,166.483176819055,USD
+489,Bujo,M,Apostle  Lane,Silver,875.125179496899,USD
+490,Koton,M,Chesterfield  Hill,Silver,369.880311091622,USD
+491,Ethika,M,Adams  Hill,Lavender,310.940564949285,USD
+492,Acorn Stores,S,Mariner  Grove,Purple,545.727262570643,USD
+493,Avirex,XS,Mariner  Drive,Camel,453.440629918115,USD
+494,JNCO,M,Durweston   Avenue,Cerise,594.47626438225,USD
+495,Cherokee Inc.,XXS,Linda Lane Hill,Mauve,501.277480934657,USD
+496,Lilli Ann,M,Howard Road,Ruby,497.950862935502,USD
+497,Columbia Sportswear,XL,Andsell    Vale,Cerise,370.44984276359,USD
+498,Lee,XXS,Norfolk  Vale,Gray,407.608166948491,USD
+499,Converse,One Size,Linda Lane Drive,Champagne,429.528634627843,USD
+500,Mohito,XL,Spruce Alley,Silver,416.480588953947,USD
+501,Rip Curl,XL,Canal  Alley,Yellow,451.890578419632,USD
+502,Baby Gap,S,Apothecary   Drive,Red,44.7134008231775,USD
+503,Nice Collective,S,Monroe Lane,Ultramarine,609.252786949176,USD
+504,Guess,XXS,Jackson Vale,Peach,392.554638574405,USD
+505,Nice Collective,XL,King Boulevard,Yellow,872.647784171709,USD
+506,Koalapop,XL,Cedarne  Drive,Yellow,651.279640617692,USD
+507,Six Deuce,XL,Linda Lane Grove,Emerald,737.37986595226,USD
+508,Lilli Ann,S,Clarks  Drive,Mauve,221.056628389557,USD
+509,Forever Lazy,L,Cingworth  Crossroad,Peach,316.716596329234,USD
+510,Avirex,M,Emden   Boulevard,Silver,78.5372483996056,USD
+511,C&A,S,Caxton  Vale,Yellow,876.349508465677,USD
+512,Levis,XXS,Thrale   Way,Lime,174.71383007534,USD
+513,Calvin Klein,XXL,Durnford  Vale,Auburn,540.828685497566,USD
+514,C&A,XXS,Antrobus   Lane,Salmon,514.996946447309,USD
+515,Mohito,S,Chestnut  Route,Auburn,761.499618005487,USD
+516,Tommy Hilfinger,M,Bicknell  Crossroad,Red,642.185835716648,USD
+517,Columbia Sportswear,One Size,Bazely   Grove,Turquoise,23.5253310608935,USD
+518,Angels Jeanswear,M,Yoakley Boulevard,Capri,643.00600695309,USD
+519,Nudie Jeans,XXL,Ashley Hill,Green,330.024823945274,USD
+520,Hamilton Shirts,XL,Boldero   Crossroad,Blue,209.200536008799,USD
+521,TNT,XL,Longmoore   Avenue,Purple,586.787852683718,USD
+522,Marchesa,XXL,Ayres   Street,Amethyst,435.92875749546,USD
+523,Bujo,L,Birkin   Tunnel,Pink,454.701259244341,USD
+524,Angels Jeanswear,XS,Bales  Crossroad,Lavender,162.249299978269,USD
+525,Cherokee Inc.,L,Victorian  Crossroad,Mauve,306.787642404119,USD
+526,Baby Gap,XXL,Waldram Park  Way,Peach,212.377794305285,USD
+527,Converse,XXL,Bel   Crossroad,Purple,105.592918355075,USD
+528,H&M,One Size,Hickory   Street,Sepia,459.194206920324,USD
+529,Bujo,XXS,Cobden  Hill,coral,494.325926580399,USD
+530,Ex-Boyfriend,XXL,East Walk,Azure,145.36160173588,USD
+531,Countess Mara,M,Castlereagh   Alley,Sienna,305.405009921144,USD
+532,Hamilton Shirts,L,Chambers  Avenue,Peach,597.924972456161,USD
+533,Six Deuce,XXS,Cockspur  Alley,Ruby,542.601794789141,USD
+534,Karen Kane,One Size,Rivervalley Hill,Champagne,66.1037145539344,USD
+535,Andrew Marc,L,Carltoun   Pass,Yellow,224.451256592284,USD
+536,Ecko Unlimited,L,Blackheath  Grove,Turquoise,714.40817569659,USD
+537,Countess Mara,XL,Bishop   Grove,Purple,373.09679454408,USD
+538,Merc Clothing,XXXL,Glenwood Boulevard,White,688.449621755155,USD
+539,Brooks Brothers,XL,Hickory Lane Way,Sienna,285.617031379671,USD
+540,Ecko Unlimited,L,Arline    Alley,Emerald,437.807472602621,USD
+541,Guess,XS,Clere  Rue,Dark red,191.538120135697,USD
+542,Dollie & Me,XXS,Linden Walk,Gold,27.226071803717,USD
+543,Rip Curl,S,Marischal  Route,Capri,22.8992529257337,USD
+544,Real Gold,XL,Aspen Lane,coral,716.210245823832,USD
+545,C&A,M,Beaumont  Grove,Camel,275.664262802431,USD
+546,Lilli Ann,XXS,Bendall   Pass,Amethyst,822.500233399696,USD
+547,TNT,M,Black Swan  Way,Black,364.743375665636,USD
+548,EMEL Fashion,M,Glenwood Drive,Capri,819.839750384618,USD
+549,Lee,XXXL,Fawn Boulevard,Green,309.798281076051,USD
+550,Baby Gap,XXL,Collins  Pass,Rosegold,514.928163707004,USD
+551,Nudie Jeans,XXXL,Emden   Lane,Aqua,371.64500174307,USD
+552,SABA,XXS,Cleaver Street,Green,431.1785834258,USD
+553,Converse,XL,Parkfield  Grove,Salmon,745.393544353043,USD
+554,Max Studio,L,Boadicea   Vale,Sky blue,638.920005159662,USD
+555,Ethika,XS,Monroe Hill,Ruby,737.238932267655,USD
+556,Forever Lazy,XXS,Endsleigh  Route,Cadet blue,192.518051896732,USD
+557,C&A,XS,Berriman  Road,Rust,565.6889776975,USD
+558,Lilli Ann,XXL,Cam  Boulevard,Sepia,490.975925887239,USD
+559,Mossimo,M,Calverley  Avenue,Dark Red,658.860408181506,USD
+560,Forever Lazy,S,Collins  Hill,Gold,846.394288919831,USD
+561,Cherokee Inc.,XS,King Crossroad,Magenta,790.574786196046,USD
+562,Old Navy,M,Wakley   Pass,Aqua,224.19149310967,USD
+563,Healthtex,XL,Central  Alley,Black,252.760307125417,USD
+564,Mossimo,M,Blandford  Walk,Capri,599.11989169505,USD
+565,Bujo,XS,Union  Street,Dark Red,280.68062225739,USD
+566,Levis,One Size,Abbotswell  Alley,Gold,373.340982052903,USD
+567,Columbia Sportswear,XL,Cephas  Way,coral,608.961437266549,USD
+568,Avirex,S,Beechen  Route,Champagne,578.753119702117,USD
+569,DKNY,One Size,Ellerslie Vale,Rosewood,420.378704751334,USD
+570,Merc Clothing,XXXL,Cleveland  Route,Camel,470.229870254062,USD
+571,Koalapop,XXXL,Gavel   Way,Rust,389.859732560995,USD
+572,C&A,XXS,Clarks  Drive,Fuchsia,160.307405570912,USD
+573,Guess,L,Howard Road,Champagne,836.222763963394,USD
+574,Converse,S,Blackpool  Grove,Yellow,866.124200565579,USD
+575,Lee,M,Clavell   Hill,Azure,664.314851073476,USD
+576,TNT,XS,Cave   Walk,Rosewood,806.412253382123,USD
+577,Acorn Stores,XXL,Coley  Street,Black,83.6586380080267,USD
+578,Six Deuce,XXXL,Argyle  Tunnel,Sky blue,27.4256403278353,USD
+579,Loyandford,XXS,Waite  Lane,Aquamarine,667.866420557441,USD
+580,JNCO,L,Fieldstone Crossroad,Emerald,893.518814386357,USD
+581,Ethika,XXS,Dunstable   Grove,Cyan,733.881332773907,USD
+582,EMEL Fashion,XXXL,Clavell   Rue,Purple,430.061927038055,USD
+583,Forever Lazy,XXL,Cleaver Hill,Sepia,802.219916435308,USD
+584,Ethika,XL,Kimberley  Pass,Azure,500.275254796168,USD
+585,Cross Colours,XXXL,Argyle  Crossroad,Peach,143.3108747801,USD
+586,Forever Lazy,One Size,Waldram Park  Hill,Carmine,499.818487491155,USD
+587,Real Gold,L,King William  Hill,Sienna,728.21534487081,USD
+588,Countess Mara,One Size,Balfe   Rue,Ultramarine,283.989157805927,USD
+589,Forever 21,M,Chesterfield  Crossroad,Sienna,553.654643104963,USD
+590,Converse,XXL,Cheney  Walk,Blue,680.99929234643,USD
+591,TNT,XS,Blanchard  Avenue,Lavender,373.17455110918,USD
+592,TNT,XL,Biggerstaff   Lane,Auburn,73.6968144831372,USD
+593,Healthtex,One Size,Linden Drive,Barbie Pink,303.057048235362,USD
+594,Columbia Sportswear,One Size,Erindale Lane,Camel,165.266291760279,USD
+595,DKNY,XS,Ely  Drive,Silver,210.557303151156,USD
+596,Baby Gap,M,Sheffield Pass,Purple,737.907885288092,USD
+597,H&M,XS,King Avenue,White,862.357293510291,USD
+598,Hamilton Shirts,XL,Chart   Avenue,Emerald,849.672899235134,USD
+599,Max Studio,S,Caroline  Route,Orange,819.437075739245,USD
+600,DKNY,S,Lincoln Rue,Barbie Pink,143.936186047488,USD
+601,Marchesa,L,Bede  Drive,Cadet blue,152.254588976402,USD
+602,H&M,XXXL,Rivervalley Route,Rosewood,820.473011894153,USD
+603,Cross Colours,L,Thurloe   Way,Sienna,798.36245930283,USD
+604,Cross Colours,XL,Bel   Rue,Gray,434.498350540189,USD
+605,Brooks Brothers,XXS,Chart   Rue,Dark red,391.74945350144,USD
+606,Healthtex,XL,Magnolia Lane,Mauve,388.657039045909,USD
+607,Hamilton Shirts,One Size,Cloth  Road,Fuchsia,868.265338866876,USD
+608,Dollie & Me,XS,Birkin   Hill,Red,525.023686674681,USD
+609,Angels Jeanswear,XXL,Cleaver Way,Champagne,685.575039200534,USD
+610,Healthtex,XL,Tilson  Route,coral,657.241875202755,USD
+611,Nudie Jeans,L,Glenwood Avenue,Capri,641.200342664835,USD
+612,Levis,S,Under  Lane,Cadet blue,225.528499534847,USD
+613,Cherokee Inc.,XXXL,Arctic   Hill,Barbie Pink,658.196612560063,USD
+614,Avirex,M,Bletchley   Alley,Champagne,93.0179136723969,USD
+615,TNT,M,Chatfield  Avenue,Red,41.2135678160673,USD
+616,Cherokee Inc.,S,Cavaye  Walk,Rust,744.012702594298,USD
+617,Dollie & Me,XL,Sundown Vale,Apricot,61.0694173134861,USD
+618,Mossimo,XL,Bacton   Way,Fuchsia,60.5324528594792,USD
+619,Hamilton Shirts,S,Apothecary   Walk,Magenta,181.76701860004,USD
+620,Tommy Hilfinger,L,Western   Tunnel,Rosewood,297.98430405162,USD
+621,Angels Jeanswear,XXS,Tiptree   Drive,Gray,182.216640135621,USD
+622,TNT,XL,Lincoln Vale,Cyan,854.802737711152,USD
+623,Six Deuce,XXL,Bennett  Tunnel,Beige,619.895901085542,USD
+624,Converse,XXXL,Gavel   Tunnel,Gold,236.505744940152,USD
+625,Hamilton Shirts,M,Chester      Boulevard,Sepia,95.3817535065635,USD
+626,Forever 21,XXS,Shepherds  Alley,Rust,298.047748421122,USD
+627,Avirex,S,Victoria  Hill,Orange,868.234921622912,USD
+628,Countess Mara,XS,Heritage Street,Magenta,98.4182450459098,USD
+629,Max Studio,XXL,Clissold  Tunnel,Camel,645.921716604126,USD
+630,SABA,XXS,Bacton   Boulevard,Rust,391.242822727548,USD
+631,Six Deuce,One Size,Coal Wharf  Alley,Cerise,766.218858701991,USD
+632,Max Studio,M,Virginia Route,Black,259.495747605351,USD
+633,Six Deuce,XXL,Lexington Alley,Fuchsia,867.184931611509,USD
+634,Real Gold,L,Woodland Lane,Lime,131.412808845724,USD
+635,Levis,XXL,Babmaes    Route,White,893.385974384805,USD
+636,Max Studio,XXL,Chicksand  Tunnel,Red,196.009174830997,USD
+637,Old Navy,XXS,South Rue,Aquamarine,395.546719603742,USD
+638,DKNY,XXXL,Hamilton  Crossroad,Aquamarine,71.498000938924,USD
+639,Nudie Jeans,M,Balham   Pass,Sepia,729.905316054558,USD
+640,Old Navy,S,Oxford Pass,Sienna,117.447673758481,USD
+641,Tommy Hilfinger,L,Waldram Park  Pass,Olive,175.781699251529,USD
+642,Lee,L,King William  Vale,Rosegold,782.219215236953,USD
+643,Izod,XXS,Parkfield  Alley,Camel,801.023254570809,USD
+644,Cherokee Inc.,L,Abbots   Avenue,Salmon,112.979584363061,USD
+645,Karen Kane,XXL,Littlebury  Vale,Maroon,108.140251698285,USD
+646,Six Deuce,S,Arlington  Rue,Purple,650.422191345111,USD
+647,SABA,L,Caroline  Road,Camel,624.372628750234,USD
+648,Nudie Jeans,XS,Liverpool  Boulevard,Orange,394.432962811069,USD
+649,Brooks Brothers,M,Central  Route,Peach,726.135540909909,USD
+650,Countess Mara,S,Rosewood Route,Olive,90.3121745119999,USD
+651,Karen Kane,S,East Road,Turquoise,549.218548385775,USD
+652,Converse,L,Gautrey  Grove,Green,554.39967357038,USD
+653,Nudie Jeans,M,Bush  Alley,Champagne,642.717945298761,USD
+654,Brooks Brothers,XXL,Bletchley   Walk,Gray,272.162905688255,USD
+655,Cherokee Inc.,XL,Cadogan  Vale,Lime,74.5835083360381,USD
+656,Guess,M,Vincent  Road,Ruby,209.043696914135,USD
+657,Angels Jeanswear,XXXL,Magnolia Rue,Carmine,667.865706509629,USD
+658,Izod,One Size,Chelsea Manor  Alley,Cerise,543.635624995532,USD
+659,Dollie & Me,XXS,Chartham  Tunnel,Maroon,69.4035287988063,USD
+660,SABA,XXL,Geffrye   Walk,White,738.136644271979,USD
+661,Tommy Hilfinger,XS,Heritage Crossroad,coral,613.63708150348,USD
+662,Guess,S,Oxford Pass,White,282.4886739757,USD
+663,Angels Jeanswear,S,Lexington Tunnel,Capri,854.607110523217,USD
+664,Rip Curl,XXS,Angrave    Avenue,Azure,583.078006148621,USD
+665,Ex-Boyfriend,XL,Armory  Rue,Gray,661.064543633067,USD
+666,Hamilton Shirts,M,Chartham  Crossroad,Gray,898.382158508483,USD
+667,Hamilton Shirts,XXS,Arundel   Pass,Auburn,825.905176430212,USD
+668,Forever 21,One Size,Castle Alley,Rust,486.806693944305,USD
+669,Old Navy,M,Virgil   Boulevard,Cyan,512.235244473333,USD
+670,Six Deuce,M,Bolingbroke  Way,Amethyst,393.733093715395,USD
+671,Acorn Stores,XXL,Belgrave  Hill,Yellow,218.515177779852,USD
+672,Nice Collective,M,Fawn Route,Sepia,172.365218196015,USD
+673,Koalapop,M,Walnut Road,Carmine,247.178498236327,USD
+674,Converse,L,Lonsdale  Lane,Emerald,150.88653393016,USD
+675,Six Deuce,XS,Arctic   Street,coral,172.395643579273,USD
+676,Loyandford,One Size,Castile  Lane,Maroon,277.498916268362,USD
+677,Converse,XL,Cliff  Boulevard,Salmon,785.321214219952,USD
+678,Brooks Brothers,XS,Dyott   Route,Turquoise,508.099938785485,USD
+679,Ecko Unlimited,XXL,Shepherds  Avenue,Peach,573.181701355014,USD
+680,Merc Clothing,XL,Westcott  Street,Brown,873.066389180066,USD
+681,Brooks Brothers,XXS,Arctic   Lane,Beige,618.98613880785,USD
+682,Max Studio,XL,Clifton  Road,Sienna,517.718948297319,USD
+683,Nice Collective,XS,Chancellor  Boulevard,Lime,280.410067826947,USD
+684,Angels Jeanswear,XXL,Rivervalley Street,Champagne,299.201341504106,USD
+685,Converse,XXXL,King Route,Gray,244.984349909478,USD
+686,Old Navy,XS,St. Pauls  Street,Rust,121.628731443621,USD
+687,Koton,XXS,Archery  Walk,Peach,427.809998063063,USD
+688,Brooks Brothers,S,Eldon  Route,Champagne,597.63333506657,USD
+689,Countess Mara,XXXL,Beatty  Boulevard,Cerise,710.307555196731,USD
+690,Ex-Boyfriend,XS,Beatty  Route,Maroon,666.488461070703,USD
+691,Acorn Stores,S,St. Jamess  Pass,Carmine,707.195488579443,USD
+692,Merc Clothing,L,Boadicea   Way,Barbie Pink,364.914372428062,USD
+693,SABA,One Size,Maple Street,Sky blue,329.296977790458,USD
+694,C&A,XXL,Monroe Avenue,Blue,303.303872016647,USD
+695,Forever Lazy,XXL,Blackheath   Pass,Sepia,303.944171535072,USD
+696,Brooks Brothers,XXL,Cobden  Avenue,Rust,405.360182420765,USD
+697,Six Deuce,M,Calderwood   Avenue,Salmon,366.541740646619,USD
+698,SABA,XL,Camley   Pass,Salmon,189.371930530715,USD
+699,EMEL Fashion,M,Bazely   Crossroad,Capri,804.200223823418,USD
+700,Countess Mara,XXS,Amwell    Vale,Peach,873.285142312672,USD
+701,Loyandford,S,Clissold  Pass,Gray,844.942788073082,USD
+702,Cherokee Inc.,One Size,Rosewood Lane,Camel,690.231332401168,USD
+703,Guess,M,Howard Boulevard,Pink,523.487509344713,USD
+704,EMEL Fashion,S,Bedford  Grove,White,161.597490927264,USD
+705,Lilli Ann,XXL,Anns  Boulevard,Emerald,246.950537344665,USD
+706,Max Studio,S,King Grove,Red,398.970528502716,USD
+707,Andrew Marc,M,Magnolia Hill,Pink,872.030055441223,USD
+708,C&A,XXL,Cephas  Lane,Salmon,722.810747380993,USD
+709,Ecko Unlimited,XXS,Blackwall  Route,Olive,324.309919169564,USD
+710,SABA,XL,Norfolk  Avenue,Cadet blue,267.809408158688,USD
+711,Lee,XXS,Blandford  Crossroad,Azure,475.512199619805,USD
+712,Rip Curl,XXXL,Chantry   Grove,Carmine,519.50651051618,USD
+713,Brooks Brothers,XL,Camdenhurst   Road,Aquamarine,143.3435381343,USD
+714,Max Studio,XXXL,Sherlock   Avenue,Aqua,601.690059333676,USD
+715,TNT,M,Dutton   Way,Dark Red,214.856197107297,USD
+716,Avirex,L,Birkin   Tunnel,Black,283.754621282352,USD
+717,Loyandford,S,Callcott   Hill,Olive,727.274064449968,USD
+718,Andrew Marc,M,Beechen  Road,Azure,430.529938973514,USD
+719,Loyandford,XXXL,Western   Alley,Barbie Pink,743.573929998141,USD
+720,Angels Jeanswear,XXL,Angrave    Avenue,Lavender,592.287800106135,USD
+721,Baby Gap,M,Berry  Street,Barbie Pink,538.935839029712,USD
+722,Lilli Ann,One Size,Queen Boulevard,Barbie Pink,386.568661474203,USD
+723,Bujo,XS,Clifton  Hill,Auburn,307.370926165442,USD
+724,Guess,XXXL,Addison  Grove,Capri,179.947586833256,USD
+725,Cherokee Inc.,One Size,Antrobus   Grove,Azure,887.320999464882,USD
+726,Marchesa,XXXL,Apsley    Boulevard,Rust,543.108845161572,USD
+727,TNT,XS,Ely  Drive,Green,25.3288123853779,USD
+728,Max Studio,One Size,Canal  Way,Blue,826.54538088016,USD
+729,H&M,XL,Ely  Route,Green,889.673210085464,USD
+730,Converse,XXL,Blandford  Rue,Emerald,238.158946236916,USD
+731,JNCO,XXXL,Blenkarne  Crossroad,Sepia,251.509504826758,USD
+732,Countess Mara,S,Boadicea   Alley,Turquoise,564.252194909743,USD
+733,Ecko Unlimited,One Size,Howard Crossroad,Peach,702.245863506466,USD
+734,Guess,One Size,Caxton  Grove,Lime,403.611514187484,USD
+735,Baby Gap,XXL,Zealand Drive,Auburn,170.461001209445,USD
+736,Forever 21,XXXL,Cliffords  Way,Gold,52.4811963215522,USD
+737,Guess,M,Zealand Street,Cerise,391.04388889604,USD
+738,Baby Gap,XXS,Blandford  Route,Capri,823.69206003762,USD
+739,Forever Lazy,M,Rivervalley Vale,Ruby,810.455288779915,USD
+740,Cherokee Inc.,One Size,Sheringham   Grove,Aquamarine,716.425715005005,USD
+741,Angels Jeanswear,One Size,Belmont Park Grove,Sepia,692.993062418198,USD
+742,Merc Clothing,XL,Belmont Park Tunnel,Brown,519.003786867733,USD
+743,Lee,S,Geary   Tunnel,Red,696.901369782366,USD
+744,Levis,M,Abbotswell  Crossroad,Pink,43.5582348769941,USD
+745,Rip Curl,One Size,Bempton   Lane,Magenta,564.253995404012,USD
+746,Marchesa,XL,Sherwood  Pass,Azure,635.799609277085,USD
+747,Hamilton Shirts,One Size,Falconberg   Walk,Blue,417.711467434765,USD
+748,Karen Kane,XS,Arctic   Street,Cyan,481.012217163361,USD
+749,Mossimo,XXXL,Carlton  Way,Sepia,403.576420531658,USD
+750,Koalapop,S,Lincoln Route,Yellow,680.92153966867,USD
+751,Merc Clothing,XXXL,Bellenden  Alley,Peach,110.714106222728,USD
+752,Guess,XL,Cloth  Walk,Amethyst,765.478833974343,USD
+753,C&A,XXXL,Aspen Way,Aqua,233.081186760967,USD
+754,Cross Colours,S,Blackheath  Route,Sienna,217.222414648045,USD
+755,Avirex,XL,Boadicea   Route,Rosegold,715.917967119928,USD
+756,Mossimo,XL,Antrobus   Drive,Emerald,283.677866577733,USD
+757,Rip Curl,XL,Apollo  Vale,Sky blue,106.70667710306,USD
+758,C&A,XL,Bermondsey    Crossroad,Cadet blue,759.905711006576,USD
+759,Max Studio,S,Marina  Walk,Rust,453.369685246562,USD
+760,Tommy Hilfinger,XL,Boadicea   Crossroad,Silver,514.905512531491,USD
+761,Acorn Stores,XL,Mariner  Rue,Yellow,375.660456296611,USD
+762,Merc Clothing,S,Blenkarne  Rue,Pink,474.00402861905,USD
+763,Converse,XL,Bayberry Street,Yellow,31.4866005866866,USD
+764,DKNY,S,Coal Wharf  Hill,Dark red,291.184403738805,USD
+765,Converse,S,Vincent  Hill,Apricot,725.624462382009,USD
+766,Ecko Unlimited,One Size,Coley  Hill,Emerald,236.511077104621,USD
+767,Izod,XS,Blackheath  Pass,Beige,342.00472239197,USD
+768,Columbia Sportswear,L,Belfort  Alley,White,389.937569909015,USD
+769,Lilli Ann,XS,Bell    Vale,Aqua,439.799526641299,USD
+770,Nice Collective,L,Carpenter Way,Rosegold,354.034115489369,USD
+771,Dollie & Me,S,Cockspur  Avenue,Olive,878.059460842791,USD
+772,Columbia Sportswear,XXS,Carol   Crossroad,Yellow,178.030540841427,USD
+773,Old Navy,XL,Blackheath   Drive,Salmon,624.673025902921,USD
+774,TNT,XXS,Boadicea   Boulevard,Olive,646.10833590228,USD
+775,Mataano,L,Yorkshire  Tunnel,Fuchsia,874.401866637604,USD
+776,Cherokee Inc.,XXS,Caroline  Walk,Aquamarine,792.31800756317,USD
+777,Mataano,S,Beaumont  Vale,Black,696.491959764632,USD
+778,Mohito,XXXL,Dunton  Boulevard,Dark Red,338.904583579132,USD
+779,Nudie Jeans,One Size,Byland  Drive,Sienna,857.421867930774,USD
+780,Andrew Marc,XL,Walnut Drive,Rosewood,573.896013559506,USD
+781,Cherokee Inc.,XXL,Birkbeck  Lane,Dark red,333.11139257608,USD
+782,C&A,One Size,Dunstable   Avenue,Yellow,562.14878484778,USD
+783,Real Gold,XL,Cingworth  Tunnel,Lime,458.266637822053,USD
+784,Lee,S,Cephas  Street,Camel,808.44975439365,USD
+785,Karen Kane,XXXL,Addison  Alley,Azure,544.767967954417,USD
+786,Ex-Boyfriend,S,Walnut Lane,Brown,718.552804467307,USD
+787,Izod,L,Bayberry Boulevard,Blue,261.758258081176,USD
+788,Bujo,XL,Emden   Way,Pink,574.705620884074,USD
+789,Angels Jeanswear,S,Balfour    Crossroad,Aquamarine,602.001728871154,USD
+790,Levis,L,Camdenhurst   Walk,Cyan,355.362138957201,USD
+791,Countess Mara,XS,Rivervalley Way,Rosegold,648.755455417691,USD
+792,Ethika,M,Billing  Way,Magenta,628.635588572438,USD
+793,Izod,XS,Andsell    Road,Beige,75.4765425310501,USD
+794,Nice Collective,XL,Maple Hill,Pink,505.689320848891,USD
+795,Converse,One Size,Lexington Boulevard,Purple,369.884603072151,USD
+796,Acorn Stores,M,Calvin   Grove,Gray,856.952452614197,USD
+797,Countess Mara,L,Chelsea Manor  Crossroad,Beige,342.274942325803,USD
+798,Ethika,L,Angrave    Road,Maroon,799.187455302438,USD
+799,Marchesa,S,Bishop   Hill,Turquoise,79.4444372360475,USD
+800,Acorn Stores,S,Burton  Pass,Black,681.983255704173,USD
+801,Real Gold,XS,Hickory   Road,Ultramarine,481.797736600194,USD
+802,C&A,XXXL,Buttonwood Vale,Carmine,385.518330908403,USD
+803,Lilli Ann,XXXL,Boldero   Hill,Cadet blue,633.192821978928,USD
+804,Lee,L,South Pass,Purple,467.034440120479,USD
+805,Cherokee Inc.,XXS,Enderby   Rue,Lime,277.170267009502,USD
+806,Angels Jeanswear,One Size,Rosewood Street,Cerise,363.15903123314,USD
+807,Baby Gap,S,Jackson Drive,Gold,835.867768041043,USD
+808,TNT,XXS,Oxford Walk,Silver,715.423614506122,USD
+809,EMEL Fashion,XXXL,Linden Street,Brown,691.159976000753,USD
+810,Karen Kane,XL,Andsell    Hill,Pink,326.825473644005,USD
+811,Forever 21,M,Chapel  Vale,Maroon,50.1411481498141,USD
+812,Forever Lazy,S,West Street,Sky blue,167.939560700892,USD
+813,Converse,L,Falconberg   Hill,Cadet blue,677.84439490427,USD
+814,Mataano,XXXL,Thomas  Boulevard,Magenta,899.98402846256,USD
+815,C&A,L,Rivervalley Avenue,Amethyst,58.0889177143662,USD
+816,Avirex,XXL,Earl Rise Pass,Auburn,269.946796671709,USD
+817,Nudie Jeans,XS,Calvin   Grove,Sky blue,214.696689153661,USD
+818,H&M,XL,Linda Lane Way,Lime,883.019261664967,USD
+819,EMEL Fashion,S,Chandos  Rue,Cyan,159.846429814294,USD
+820,Forever 21,S,Glenwood Road,Pink,768.224361437258,USD
+821,DKNY,M,Bempton   Pass,Capri,809.191619815641,USD
+822,Rip Curl,L,Ensign   Road,Olive,273.0702437873,USD
+823,SABA,S,Chester      Drive,Peach,82.1967889148401,USD
+824,Angels Jeanswear,XXL,Birkin   Pass,Pink,109.754080378583,USD
+825,DKNY,M,Union  Avenue,Cerise,436.489748818809,USD
+826,Mohito,One Size,Durweston   Vale,Aqua,748.361733485429,USD
+827,Angels Jeanswear,L,Liverpool  Tunnel,Rust,703.181403619569,USD
+828,Nice Collective,XXL,Dutton   Alley,Mauve,45.7484367486455,USD
+829,Koalapop,XXXL,Heritage Boulevard,Mauve,405.014945524067,USD
+830,Baby Gap,XS,Viscount   Route,Dark red,531.975081746702,USD
+831,Koton,XXS,Howard Drive,Red,755.983006234054,USD
+832,Columbia Sportswear,S,Abbotswell  Tunnel,Blue,524.179019427257,USD
+833,Mataano,S,Rivervalley Way,Aquamarine,672.910846385379,USD
+834,Ethika,XXL,Black Swan  Tunnel,Salmon,325.707512465416,USD
+835,Angels Jeanswear,XXS,Aspen Road,Carmine,202.751318165232,USD
+836,Six Deuce,One Size,Battersea   Hill,Carmine,693.471881455743,USD
+837,SABA,XL,Antrobus   Avenue,Rust,755.182516932819,USD
+838,Bujo,One Size,Pine Route,Ruby,77.7519750647628,USD
+839,Countess Mara,XXS,Tilson  Crossroad,coral,263.51858622909,USD
+840,SABA,XL,Camberwell  Vale,Cerise,396.722290061066,USD
+841,Koton,M,Catherine  Tunnel,Beige,406.098734648725,USD
+842,Nudie Jeans,XXXL,Bempton   Avenue,Cadet blue,482.323445781532,USD
+843,Ecko Unlimited,XXS,Castlereagh   Route,Azure,899.578120103622,USD
+844,DKNY,S,Chesterfield  Rue,coral,858.004778913937,USD
+845,Columbia Sportswear,XXL,Virgil   Avenue,Green,425.852670863915,USD
+846,JNCO,XXXL,Chestnut  Crossroad,Magenta,595.8694333422,USD
+847,SABA,XXL,Cato   Drive,Auburn,192.365343370426,USD
+848,Forever Lazy,XS,Tiptree   Street,Emerald,147.058423684718,USD
+849,Columbia Sportswear,S,St. Johs  Avenue,coral,103.34892942937,USD
+850,JNCO,XS,Dutton   Alley,Peach,434.110382912979,USD
+851,Lilli Ann,XL,Victoria Rise Avenue,Lavender,643.810902358191,USD
+852,Forever 21,S,Longleigh   Pass,Auburn,583.336868437411,USD
+853,Loyandford,XL,Badric  Drive,Maroon,719.885091632798,USD
+854,Angels Jeanswear,XL,Charnwood   Vale,White,478.483270530595,USD
+855,Angels Jeanswear,M,Blandford  Rue,Sepia,245.324562089916,USD
+856,Ecko Unlimited,M,Timothy  Alley,Emerald,238.404063534892,USD
+857,Tommy Hilfinger,XXL,Fawn Pass,Aquamarine,31.4564463356447,USD
+858,Ex-Boyfriend,XXXL,Berriman  Pass,Champagne,219.839358200957,USD
+859,Converse,One Size,Charnwood   Walk,Carmine,308.09600380977,USD
+860,Bujo,XXL,Coborn  Road,Salmon,31.4063995373139,USD
+861,Nudie Jeans,XL,Monroe Crossroad,White,443.395155119675,USD
+862,Avirex,XL,Jackson Alley,Cadet blue,44.5035909628652,USD
+863,EMEL Fashion,XXXL,Bective  Road,Cyan,447.943326759373,USD
+864,Countess Mara,M,Zealand Tunnel,Gray,291.931914009835,USD
+865,Nice Collective,XXXL,Sundown Alley,Fuchsia,64.5922542866889,USD
+866,Rip Curl,M,Apsley    Vale,Auburn,411.237578901354,USD
+867,Mataano,L,Blue Anchor  Rue,Maroon,541.503001198188,USD
+868,Acorn Stores,One Size,Bond Route,Apricot,428.120879856707,USD
+869,Calvin Klein,XL,Durham Way,Turquoise,428.76981636011,USD
+870,Columbia Sportswear,XXXL,Cedarne  Avenue,Beige,822.351742183735,USD
+871,Dollie & Me,XXS,Littlebury  Tunnel,Silver,641.667924459185,USD
+872,Loyandford,XL,Queen Way,Rosegold,398.858991776309,USD
+873,Cherokee Inc.,XXXL,Cliffords  Avenue,Sky blue,435.939155223532,USD
+874,Healthtex,M,Parkfield  Hill,Fuchsia,432.536947182411,USD
+875,Lilli Ann,XL,Byland  Boulevard,Dark Red,153.563238173767,USD
+876,Brooks Brothers,XXS,Bolingbroke  Avenue,Auburn,419.861442781701,USD
+877,Converse,XXS,Linda Lane Grove,Cyan,821.351946609505,USD
+878,Tommy Hilfinger,M,Cedarne  Route,Emerald,383.893853618495,USD
+879,JNCO,S,Cliffords  Alley,Orange,136.108337980992,USD
+880,Nice Collective,S,Zealand Road,Sienna,280.518294953298,USD
+881,Healthtex,XL,Bond Crossroad,Brown,89.6241956768344,USD
+882,Countess Mara,XS,Angel  Drive,White,183.226183503287,USD
+883,SABA,One Size,Cliff  Tunnel,Sepia,609.203796162612,USD
+884,H&M,S,Boadicea   Avenue,Blue,682.012739929158,USD
+885,Hamilton Shirts,XXXL,Blackheath   Pass,Lime,753.360727247731,USD
+886,Hamilton Shirts,XXS,Comet House  Grove,Blue,258.654863436792,USD
+887,Marchesa,XL,Angel  Rue,Yellow,796.628195892162,USD
+888,Real Gold,S,Angrave    Hill,Magenta,297.977013487139,USD
+889,Nudie Jeans,XL,Blackwall  Rue,Blue,558.489947523465,USD
+890,Merc Clothing,XXXL,Biggerstaff   Drive,Lavender,781.644213034387,USD
+891,Izod,S,Pine Route,Salmon,503.722985848902,USD
+892,Avirex,M,Howard Route,Rust,359.397710975226,USD
+893,Mohito,XL,Bede  Drive,Cadet blue,358.373090351421,USD
+894,Mataano,M,Champion  Road,Gold,165.127351141841,USD
+895,Marchesa,L,Arline    Way,Brown,885.165963202108,USD
+896,Converse,L,Queensberry  Street,Olive,244.525399696573,USD
+897,Lilli Ann,XS,Bletchley   Grove,Orange,102.420630100626,USD
+898,Bujo,L,Empress  Crossroad,coral,259.586532170473,USD
+899,Guess,XXS,Walnut Pass,Salmon,544.836235515013,USD
+900,Levis,XXS,Cheney  Crossroad,Green,224.355125900304,USD
+901,H&M,XXS,Ashley Pass,Pink,766.231167766154,USD
+902,Six Deuce,S,Viscount   Grove,Peach,642.836986818987,USD
+903,Ecko Unlimited,XXL,Becklow  Hill,Rosegold,530.852524380843,USD
+904,Cross Colours,XXXL,Hickory Lane Route,Gold,626.84861840791,USD
+905,Loyandford,XS,Elba  Crossroad,Rust,78.3965205917724,USD
+906,Ex-Boyfriend,One Size,Carltoun   Boulevard,Emerald,333.336400280644,USD
+907,Baby Gap,XXL,Blackwall  Boulevard,Purple,899.428032084349,USD
+908,Max Studio,XXS,Emily  Rue,Gold,462.765990268577,USD
+909,Mohito,M,Meadow Avenue,Azure,357.394922132103,USD
+910,Cross Colours,L,Bacon  Street,Gold,408.051421713355,USD
+911,Forever Lazy,XXXL,Coley  Tunnel,Orange,474.179612061805,USD
+912,Marchesa,One Size,Bolingbroke  Walk,Dark Red,390.049808873134,USD
+913,Dollie & Me,M,Yoakley Street,Amethyst,575.538902860633,USD
+914,Marchesa,XXXL,Wadham  Tunnel,Beige,848.814208659504,USD
+915,Cross Colours,XXXL,Egerton  Tunnel,White,352.708186720609,USD
+916,SABA,One Size,Argyle  Grove,Fuchsia,536.426122553626,USD
+917,Acorn Stores,M,Glenwood Grove,Beige,324.335472970673,USD
+918,Hamilton Shirts,XS,Rosewood Alley,Dark red,471.670745743532,USD
+919,Nice Collective,M,Blanchard  Tunnel,Amethyst,342.015015691307,USD
+920,Old Navy,L,Birkenhead   Vale,Silver,321.175004563157,USD
+921,DKNY,XXXL,Cheney  Hill,Silver,120.802106646976,USD
+922,Angels Jeanswear,One Size,Black Swan  Road,Sky blue,441.192621259355,USD
+923,Calvin Klein,XXS,Garfield Pass,Rust,53.3478686250177,USD
+924,JNCO,S,Blean   Grove,Orange,382.622467315361,USD
+925,SABA,One Size,Longmoore   Lane,Brown,162.523383673771,USD
+926,C&A,M,Blake  Walk,Salmon,784.562504824294,USD
+927,Guess,M,Chartham  Drive,Purple,743.220586533542,USD
+928,Cross Colours,S,Anns  Street,Maroon,748.299450978557,USD
+929,Loyandford,XL,Yorkshire  Walk,Rosegold,178.063985163157,USD
+930,Converse,XS,Sheringham   Way,Maroon,609.503089804218,USD
+931,Cross Colours,XXXL,Gavel   Grove,Turquoise,711.701073928378,USD
+932,DKNY,L,Elgood   Boulevard,Sky blue,374.444824149355,USD
+933,JNCO,L,Arline    Rue,Blue,217.349287352003,USD
+934,Healthtex,S,Lincoln Rue,Dark Red,459.114269147461,USD
+935,Six Deuce,One Size,Camdenhurst   Hill,Azure,650.994904982171,USD
+936,Baby Gap,S,Cliffords  Vale,Silver,546.211104162383,USD
+937,Hamilton Shirts,XXXL,Bayberry Alley,Olive,565.161286060089,USD
+938,Forever 21,S,Gathorne   Drive,Aquamarine,156.239858413939,USD
+939,SABA,XXS,Sheraton   Avenue,Black,536.366110812359,USD
+940,Merc Clothing,XXS,Sheraton   Grove,Dark Red,416.132725701045,USD
+941,EMEL Fashion,XXS,Charterhouse  Tunnel,Magenta,142.944848826842,USD
+942,TNT,XS,Carlton  Lane,Rust,858.25578635176,USD
+943,Merc Clothing,XS,Hammersmith  Pass,Amethyst,684.344707346929,USD
+944,Mohito,L,Virginia Pass,Brown,763.867260100971,USD
+945,Baby Gap,XXXL,Belfort  Alley,Turquoise,46.9376572326141,USD
+946,SABA,M,Sundown Walk,Brown,280.713946946079,USD
+947,Forever Lazy,One Size,Walnut Route,Magenta,117.986291963382,USD
+948,EMEL Fashion,One Size,Longleigh   Vale,Dark Red,713.187200471162,USD
+949,Bujo,L,Arundel   Way,Black,89.9133514540472,USD
+950,C&A,L,Bush  Pass,Camel,300.450581263742,USD
+951,Countess Mara,L,Blackall   Hill,Capri,575.762047326328,USD
+952,Six Deuce,XXS,Gate   Route,Sepia,795.116600562188,USD
+953,EMEL Fashion,L,Lake Avenue,Red,680.248863499509,USD
+954,Koalapop,One Size,Hamilton  Pass,Rosewood,724.845947354276,USD
+955,Real Gold,XXXL,Marina  Pass,Mauve,491.384089488962,USD
+956,Nudie Jeans,XXL,Blomfield  Street,Azure,394.295267790475,USD
+957,JNCO,One Size,Belmont Park Hill,Carmine,721.180250169109,USD
+958,Ecko Unlimited,XXL,Belmont Park Rue,Amethyst,198.730930451425,USD
+959,C&A,XXXL,Caslon   Tunnel,Ruby,826.484574676964,USD
+960,SABA,XL,Beatty  Drive,Lavender,664.238172625084,USD
+961,Acorn Stores,S,Central  Alley,Blue,859.589942581542,USD
+962,Nice Collective,L,Yorkshire  Road,Brown,606.305488274356,USD
+963,Marchesa,XS,Blanchard  Street,Blue,595.549000904001,USD
+964,DKNY,XXXL,Abbey   Boulevard,Cadet blue,733.475015081468,USD
+965,Dollie & Me,XL,Geary   Crossroad,Peach,849.8378959691,USD
+966,Ethika,L,Dunton  Tunnel,Red,144.7557966771,USD
+967,Karen Kane,XL,Clerkenwell Crossroad,Red,178.420809909678,USD
+968,Rip Curl,XL,Kilner   Road,Peach,626.942836808727,USD
+969,H&M,M,Commercial  Walk,Azure,122.418436302779,USD
+970,Angels Jeanswear,XS,Garfield Lane,Sepia,432.450400151769,USD
+971,Old Navy,S,Wake  Alley,Cadet blue,718.434460304661,USD
+972,Izod,XXXL,Blake  Tunnel,Magenta,68.3406633389511,USD
+973,Columbia Sportswear,L,Woodland Drive,Red,807.782011243194,USD
+974,Avirex,XXL,Boadicea   Alley,Cyan,317.301151891626,USD
+975,Acorn Stores,XXS,Blackall   Avenue,Rosegold,873.713045460285,USD
+976,Koton,XXXL,Beaconsfield  Hill,Purple,467.557868741028,USD
+977,Old Navy,M,Viscount   Avenue,Peach,89.4666040590948,USD
+978,H&M,M,Canal  Avenue,Amethyst,608.706507424003,USD
+979,Forever Lazy,XL,Wake  Avenue,Aquamarine,138.961356002601,USD
+980,Karen Kane,XL,Collent   Lane,Aqua,572.697136022256,USD
+981,Countess Mara,L,Fieldstone Route,Salmon,218.261989310287,USD
+982,Forever Lazy,XXL,Carnegie   Drive,Red,754.454111815423,USD
+983,C&A,L,Bishop   Vale,Maroon,26.6273958930547,USD
+984,Countess Mara,L,Lexington Grove,Cerise,545.748885554391,USD
+985,H&M,XXL,Ampton  Drive,Aquamarine,697.477463716179,USD
+986,Angels Jeanswear,XS,Angel  Street,Aquamarine,411.98152851244,USD
+987,Baby Gap,S,Birkenhead   Street,Black,466.984984677059,USD
+988,Baby Gap,XXXL,Cheney  Walk,Magenta,82.972540140386,USD
+989,Nice Collective,S,Magnolia Road,Magenta,472.9376263304,USD
+990,Brooks Brothers,XXS,King Walk,Peach,879.298406800175,USD
+991,Levis,L,Empress  Crossroad,Amethyst,588.482242669916,USD
+992,EMEL Fashion,XL,Capeners  Alley,Aqua,692.949302382525,USD
+993,DKNY,XXL,Addison  Crossroad,Dark Red,464.434670625704,USD
+994,Koton,One Size,Sheffield Walk,Camel,59.6347322846599,USD
+995,Levis,XS,Chalcot  Street,Apricot,624.277070235371,USD
+996,C&A,XXL,Cable    Alley,Emerald,451.401948467331,USD
+997,Six Deuce,XXXL,Caxton  Hill,Auburn,889.882850516314,USD
+998,Rip Curl,XXL,York Route,Capri,780.18461520584,USD
+999,Avirex,XXL,Howard Way,Lime,765.164026814836,USD
+1000,Andrew Marc,XXL,Armory  Hill,Peach,611.406430830684,USD

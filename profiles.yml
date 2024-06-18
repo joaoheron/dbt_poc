@@ -2,22 +2,12 @@ dbt_poc:
   target: dev
   outputs:
     dev:
-      type: postgres
-      host: "{{ env_var('DBT_HOST') }}"
+      type: snowflake
+      account: "{{ env_var('DBT_ACCOUNT') }}"
+      role: "{{ env_var('DBT_ROLE') }}"
+      warehouse: "{{ env_var('DBT_WAREHOUSE') }}"
+      database: "{{ env_var('DBT_DATABASE') }}"
+      schema: "{{ env_var('DBT_SCHEMA') }}"
       user: "{{ env_var('DBT_USER') }}"
-      pass: "{{ env_var('DBT_PASSWORD') }}"
-      port: "{{ env_var('DBT_PORT') | int }}"
-      dbname: "{{ env_var('DBT_DATABASE') }}"
-      schema: "{{ env_var('DBT_SCHEMA') }}_{{ env_var('DBT_USER') }}"
-      keepalives_idle: 10
-      threads: 4
-    prod:
-      type: postgres
-      host: "{{ env_var('DBT_HOST') }}"
-      user: "{{ env_var('DBT_USER') }}"
-      pass: "{{ env_var('DBT_PASSWORD') }}"
-      port: "{{ env_var('DBT_PORT') | int }}"
-      dbname: "{{ env_var('DBT_DATABASE') }}"
-      schema: "{{ env_var('DBT_SCHEMA') }}_prod"
-      threads: 4
-      keepalives_idle: 10
+      password: "{{ env_var('DBT_PASSWORD') }}"
+

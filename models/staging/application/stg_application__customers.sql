@@ -2,18 +2,18 @@
 -- Renaming customers columns following project pattern
 with customers_columns_names_pattern as (
     select
-        "CustomerId" as id,
-        "CustomerSsn" as ssn,
-        "CustomerFirstName" as first_name,
-        "CustomerLastName" as last_name,
-        "CustomerEmail" as email,
-        "CustomerPhone" as phone,
-        "CustomerJobTitle" as job_title,
-        "CustomerCountry" as country,
-        "CustomerState" as state,
-        "CustomerCity" as city,
-        "CustomerShippingAddress" as shipping_address,
-        "CustomerBusinessAddress" as business_address
+        "CUSTOMERID" as id,
+        "CUSTOMERSSN" as ssn,
+        "CUSTOMERFIRSTNAME" as first_name,
+        "CUSTOMERLASTNAME" as last_name,
+        "CUSTOMEREMAIL" as email,
+        "CUSTOMERPHONE" as phone,
+        "CUSTOMERJOBTITLE" as job_title,
+        "CUSTOMERCOUNTRY" as country,
+        "CUSTOMERSTATE" as state,
+        "CUSTOMERCITY" as city,
+        "CUSTOMERSHIPPINGADDRESS" as shipping_address,
+        "CUSTOMERBUSINESSADDRESS" as business_address
     from {{ source('application', 'app_customers') }}
 
 ),

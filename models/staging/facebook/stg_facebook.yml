@@ -2,22 +2,58 @@ version: 2
 
 sources:
   - name: facebook
-    schema: "{{ env_var('DBT_SCHEMA') }}_raw"
+    database: raw
+    schema: facebook
     tables:
       - name: fb_customers
+        loaded_at_field: loaded_at
+        freshness:
+          warn_after: {count: 12, period: hour}
+          error_after: {count: 24, period: hour}
+
       - name: fb_followers
+        loaded_at_field: loaded_at
+        freshness:
+          warn_after: {count: 12, period: hour}
+          error_after: {count: 24, period: hour}
+
       - name: fb_mentions
+        loaded_at_field: loaded_at
+        freshness:
+          warn_after: {count: 12, period: hour}
+          error_after: {count: 24, period: hour}
+
       - name: fb_products
+        loaded_at_field: loaded_at
+        freshness:
+          warn_after: {count: 12, period: hour}
+          error_after: {count: 24, period: hour}
+
       - name: fb_reviews
+        loaded_at_field: loaded_at
+        freshness:
+          warn_after: {count: 12, period: hour}
+          error_after: {count: 24, period: hour}
+
       - name: fb_sales
+        loaded_at_field: loaded_at
+        freshness:
+          warn_after: {count: 12, period: hour}
+          error_after: {count: 24, period: hour}
 
 models:
   - name: stg_facebook__customers
     columns:
       - name: guid
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: profile_url
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: full_name
         description: ""
       - name: email
@@ -33,8 +69,14 @@ models:
     columns:
       - name: guid
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: profile_url
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: full_name
         description: ""
       - name: friends_number
@@ -45,6 +87,9 @@ models:
     columns:
       - name: guid
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: post_url
         description: ""
       - name: profile_url
@@ -70,8 +115,13 @@ models:
     columns:
       - name: guid
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: application_id
         description: ""
+        tests:
+          - not_null
       - name: product_url
         description: ""
       - name: brand
@@ -89,6 +139,9 @@ models:
     columns:
       - name: guid
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: reviewer_profile_url
         description: ""
       - name: reviewer_full_name
@@ -102,8 +155,13 @@ models:
     columns:
       - name: guid
         description: ""
+        tests:
+          - unique
+          - not_null
       - name: customer_guid
         description: ""
+        tests:
+          - not_null
       - name: customer_profile_url
         description: ""
       - name: products_guids

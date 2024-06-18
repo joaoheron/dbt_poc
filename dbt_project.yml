@@ -15,7 +15,7 @@ profile: 'dbt_poc'
 model-paths: ["models"]
 analysis-paths: ["analyses"]
 test-paths: ["tests"]
-seed-paths: ["seeds"]
+seed-paths: ["seeds", "raw"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 
@@ -28,12 +28,26 @@ clean-targets:         # directories to be removed by `dbt clean`
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
 
 seeds:
-  schema: "{{ env_var('DBT_SCHEMA') }}_raw"
+  schema: seed
+  dbt_poc:
+    application:
+      database: raw
+      schema: application
+    facebook:
+      database: raw
+      schema: facebook
 
 models:
   dbt_poc:
     staging:
+      schema: staging
       application:
         +materialized: table
       facebook:
         +materialized: table
+    intermediate:
+      +materialized: view
+    marts:
+      +materialized: table
+      dim_customers:
+        post-hook: "{{ insert_custom_customer() }}"
